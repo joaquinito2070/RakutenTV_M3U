@@ -40,41 +40,15 @@ class Api:
     referer = "https://rakuten.tv/"
     user_agent = "Mozilla/5.0 (X11; Linux x86_64; rv:98.0) Gecko/20100101 Firefox/98.0"
 
-    language = os.getenv('CLASSIFICATION', 'it')
+    language = os.getenv('CLASSIFICATION', 'it') # El script run_generator.py lo cambiará
 
     classification_id = {
-        "al": 270,
-        "at": 300,
-        "ba": 245,
-        "be": 308,
-        "bg": 269,
-        "ch": 319,
-        "cz": 272,
-        "de": 307,
-        "dk": 283,
-        "ee": 288,
-        "es": 5,
-        "fi": 284,
-        "fr": 23,
-        "gr": 279,
-        "hr": 302,
-        "ie": 41,
-        "is": 287,
-        "it": 36,
-        "jp": 309,
-        "lt": 290,
-        "lu": 74,
-        "me": 259,
-        "mk": 275,
-        "nl": 69,
-        "no": 286,
-        "pl": 277,
-        "pt": 64,
-        "ro": 268,
-        "rs": 266,
-        "se": 282,
-        "sk": 273,
-        "uk": 18,
+        "al": 270, "at": 300, "ba": 245, "be": 308, "bg": 269, "ch": 319,
+        "cz": 272, "de": 307, "dk": 283, "ee": 288, "es": 5, "fi": 284,
+        "fr": 23, "gr": 279, "hr": 302, "ie": 41, "is": 287, "it": 36,
+        "jp": 309, "lt": 290, "lu": 74, "me": 259, "mk": 275, "nl": 69,
+        "no": 286, "pl": 277, "pt": 64, "ro": 268, "rs": 266, "se": 282,
+        "sk": 273, "uk": 18,
     }
 
 
@@ -94,15 +68,19 @@ class Api:
             "page": 1,
             "per_page": 100,
         }
-
-        response = requests.get(
-            cls.api_base_url + path,
-            headers=headers,
-            params=query,
-        )
-
-        return response.json()
-
+        
+        try:
+            response = requests.get(
+                cls.api_base_url + path,
+                headers=headers,
+                params=query,
+                timeout=10 # Añadido timeout
+            )
+            response.raise_for_status() # Lanza error si la respuesta es 4xx o 5xx
+            return response.json()
+        except (requests.exceptions.RequestException, requests.exceptions.JSONDecodeError) as e:
+            print(f"  [Api Error get_live_channels] {e}")
+            return {} # Devuelve dict vacío en error para evitar 'NoneType'
 
     @classmethod
     def get_live_channel_categories(cls):
@@ -119,14 +97,18 @@ class Api:
             "market_code": cls.language
         }
 
-        response = requests.get(
-            cls.api_base_url + path,
-            headers=headers,
-            params=query,
-        )
-
-        return response.json()
-
+        try:
+            response = requests.get(
+                cls.api_base_url + path,
+                headers=headers,
+                params=query,
+                timeout=10 # Añadido timeout
+            )
+            response.raise_for_status()
+            return response.json()
+        except (requests.exceptions.RequestException, requests.exceptions.JSONDecodeError) as e:
+            print(f"  [Api Error get_live_channel_categories] {e}")
+            return {} # Devuelve dict vacío en error
 
     @classmethod
     def get_live_streaming(cls, channel: Channel, session: requests.Session = None):
@@ -148,7 +130,7 @@ class Api:
         }
 
         data = {
-            "audio_language": channel.language_ids[0],
+            "audio_language": channel.language_ids[0] if channel.language_ids else "MIS",
             "audio_quality": "2.0",
             "classification_id": cls.classification_id[cls.language],
             "content_id": channel.id,
@@ -165,18 +147,23 @@ class Api:
         else:
             caller = requests
 
-        response = caller.post(
-            cls.api_base_url + path,
-            headers=headers,
-            params=query,
-            json=data,
-        )
-
-        return response.json()
-
+        try:
+            response = caller.post(
+                cls.api_base_url + path,
+                headers=headers,
+                params=query,
+                json=data,
+                timeout=10 # Añadido timeout
+            )
+            response.raise_for_status()
+            return response.json()
+        except (requests.exceptions.RequestException, requests.exceptions.JSONDecodeError) as e:
+            # No imprimimos error aquí porque es normal que falle si un canal no tiene stream
+            return {} # Devuelve dict vacío en error
 
 # methods
 def map_channels_categories(api_response):
+    # api_response ahora será {} si falló, .get() lo manejará bien
     categories = api_response.get("data", [])
 
     channels_categories_map = {}
@@ -192,14 +179,24 @@ def map_channels_categories(api_response):
 
 def map_channels_streams(channels: List[Channel]):
     session = requests.Session()
-
     ch_stream_map = {}
 
     for channel in channels:
-        stream_url = Api.get_live_streaming(channel, session)\
-            .get("data", {})\
-            .get("stream_infos", [None])[0]\
-            .get("url", "# no_url")
+        # stream_data será {} si la API falla, gracias a nuestra corrección
+        stream_data = Api.get_live_streaming(channel, session)
+        
+        # --- Lógica de seguridad MEJORADA ---
+        stream_url = "# no_url"
+        # Obtenemos 'data' (default {}), luego 'stream_infos' (default None)
+        stream_infos = stream_data.get("data", {}).get("stream_infos") 
+
+        # Verificamos si 'stream_infos' es una lista y no está vacía
+        if isinstance(stream_infos, list) and len(stream_infos) > 0:
+            first_stream = stream_infos[0]
+            # Verificamos si el primer elemento es un diccionario
+            if isinstance(first_stream, dict):
+                stream_url = first_stream.get("url", "# no_url")
+        # --- Fin de la lógica de seguridad ---
 
         if stream_url != "# no_url":
             head, sep, tail = stream_url.partition('.m3u8')
@@ -214,16 +211,17 @@ def get_channels() -> List[Channel]:
     live_channels_raw = Api.get_live_channels()
     categories_raw = Api.get_live_channel_categories()
 
-    # pprint.pprint(live_channels_raw)
-    # print("\n\n\n\n")
-    # pprint.pprint(categories_raw)
+    # live_channels_raw y categories_raw serán {} si fallan, no None
+    # así que .get() funcionará sin problemas.
 
     # make channels/category lookup map
     cc_map = map_channels_categories(categories_raw)
 
     # list of all live channels
-    ch_list: List(Channels) = []
+    # --- CORREGIDO: TIPO DE DATO ---
+    ch_list: List[Channel] = [] # Antes decía 'List(Channels)'
 
+    # .get("data", []) funcionará de forma segura
     channels = live_channels_raw.get("data", [])
     for channel in channels:
 
@@ -247,5 +245,4 @@ def get_channels() -> List[Channel]:
 
         ch_list.append(ch)
 
-    # pprint.pprint(ch_list)
     return ch_list
