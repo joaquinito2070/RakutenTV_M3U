@@ -4,9 +4,9 @@ on:
   # Permite ejecutarlo manualmente desde la pestaña "Actions"
   workflow_dispatch:
   
-  # Lo ejecuta automáticamente todos los días a las 3:00 AM UTC
+  # Ejecuta el trabajo cada 3 horas
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 */3 * * *' # <-- ¡ESTE ES EL CAMBIO!
 
 jobs:
   build-playlists:
@@ -17,30 +17,28 @@ jobs:
       - name: Checkout del repositorio
         uses: actions/checkout@v4
 
-      # 2. Configuramos Python 3.10 (puedes usar 3.9, 3.11, etc.)
+      # 2. Configuramos Python 3.10
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      # 3. Instalamos las dependencias (las que usa tu rakuten.py)
+      # 3. Instalamos las dependencias
+      # (Solo necesitamos 'requests' para el script actual)
       - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
-          pip install requests python-dotenv
+          pip install requests
 
-      # 4. Ejecutamos el script generador que creamos en el Paso 1
+      # 4. Ejecutamos el script generador
       - name: Ejecutar script generador
         run: python run_generator.py
 
-      # 5. Hacemos commit y push de los archivos generados al repositorio
-      # Esta acción revisará si hay cambios en el directorio "dist/"
-      # y si los hay, creará un commit nuevo automáticamente.
+      # 5. Hacemos commit y push de los archivos generados
       - name: Hacer commit de los archivos
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'CI: Actualizar listas de canales y EPG'
-          # Importante: Asegúrate de que esto coincide con OUTPUT_DIR
+          commit_message: 'CI: Actualizar listas de canales y EPG (cada 3 horas)' # <-- CAMBIO
           file_pattern: 'dist/*'
           commit_user_name: 'GitHub Actions Bot'
           commit_user_email: 'actions@github.com'
