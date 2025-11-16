@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from typing import List, Dict
 
-# Importamos tu script original
+# Importamos tu script original (ahora corregido)
 import rakuten
 
 # Tipos para claridad
@@ -74,9 +74,6 @@ def generate_xmltv(country_code: str, channels: List[Channel]):
         display_name = ET.SubElement(ch_element, "display-name")
         display_name.text = channel.title
         
-        # NOTA: Tu script rakuten.py no obtiene logos. Si los tuvieras,
-        # los añadirías aquí con una etiqueta <icon src="..."/>
-    
     # Convertir a string con formato "bonito" (pretty-print)
     xml_str = minidom.parseString(ET.tostring(tv_root)).toprettyxml(indent="  ", encoding="utf-8")
     
@@ -180,9 +177,7 @@ def main():
     for country in all_countries:
         print(f"\nProcesando país: {country.upper()}")
         
-        # *** ¡Esta es la parte clave! ***
-        # Modificamos la variable de clase en tu script rakuten.py
-        # antes de llamar a las funciones.
+        # Modificamos la variable de clase en rakuten.py
         rakuten.Api.language = country
         
         try:
@@ -201,8 +196,8 @@ def main():
             countries_processed.append(country)
             
         except Exception as e:
+            # Esta excepción ahora solo debería saltar por errores inesperados
             print(f"  -> ERROR procesando {country}: {e}")
-            # Si falla un país, continuamos con el siguiente
 
     # --- Combinar archivos ---
     if countries_processed:
