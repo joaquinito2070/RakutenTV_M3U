@@ -50,6 +50,12 @@
           "stop": "20251117012202 +0100",
           "title": "Huida desesperada",
           "desc": "| +16 | Películas |\n\nMidori, una chica japonesa recién casada, simula su propio secuestro durante su luna de miel en Sydney para poder desaparecer con su amante. Pero sus planes se tuercen y empieza una huida desesperada al lado de uno de sus secuestradores, de quien se enamora locamente."
+        },
+        {
+          "start": "20251117012203 +0100",
+          "stop": "20251117031019 +0100",
+          "title": "Headhunter",
+          "desc": "| +16 | Películas |\n\nRoger es un reputado cazatalentos noruego que vive en una maravillosa casa de campo con su esposa Diana, la bella propietaria de una galería de arte. En realidad, está viviendo muy por encima de sus posibilidades."
         }
       ]
     },
@@ -113,12 +119,6 @@
       "epgId": "comedy-rakuten-tv",
       "group_title": "Películas",
       "epg": [
-        {
-          "start": "20251116110832 +0100",
-          "stop": "20251116130454 +0100",
-          "title": "St. Vincent",
-          "desc": "| +16 | Películas |\n\nCon 2 nominaciones a los Globos de Oro y con un trío cómico protagonista impecable, 'St. Vincent' cuenta la historia de un chico cuyos padres se acaban de divorciar. La situación no es sencilla para él, le cuesta aceptar la nueva realidad. Sin embargo, las cosas cambian cuando conoce a su vecino."
-        },
         {
           "start": "20251116130455 +0100",
           "stop": "20251116150215 +0100",
@@ -206,6 +206,12 @@
           "stop": "20251117010149 +0100",
           "title": "Redención (Southpaw)",
           "desc": "| +16 | Películas |\n\nBilly Hope (Jake Gyllenhaal), campeón del mundo de los pesos semipesados de boxeo, lo tiene todo: una impresionante carrera, una hermosa y enamorada esposa, una hija adorable y un estilo de vida con todo tipo de lujos. Pero cuando su mánager y amigo de toda la vida le abandonan, Hope toca fondo."
+        },
+        {
+          "start": "20251117010150 +0100",
+          "stop": "20251117032122 +0100",
+          "title": "Mi vida con John F. Donovan",
+          "desc": "| +16 | Películas |\n\nLa película dirigida por el joven y exitoso Xavier Dolan, se centra en la historia de un actor ficticio llamado John F. Donovan, que se hizo famoso por interpretar a superhéroes y que ha fallecido recientemente."
         }
       ]
     },
@@ -275,12 +281,6 @@
       "epgId": "spanish-cinema-rakuten-tv",
       "group_title": "Películas",
       "epg": [
-        {
-          "start": "20251116105504 +0100",
-          "stop": "20251116130059 +0100",
-          "title": "Alpha",
-          "desc": "| +16 | Películas |\n\nAlpha son tres jóvenes amigos criminales que se separaron en un momento determinado de su vida debido a un robo fallido. Ocho años después vuelven a estar juntos, cada uno eligiendo diferentes estilos de vida."
-        },
         {
           "start": "20251116130100 +0100",
           "stop": "20251116144026 +0100",
@@ -380,6 +380,12 @@
           "stop": "20251117004734 +0100",
           "title": "Pesadilla mortal",
           "desc": "| +16 | Películas |\n\nJusto bajo tus pies acecha un mal tan letal, tan inteligente, que da miedo. Los asistentes a una cumbre ecológica están a punto de descubrir un problema mayor que el calentamiento global."
+        },
+        {
+          "start": "20251117004735 +0100",
+          "stop": "20251117022243 +0100",
+          "title": "Curvature",
+          "desc": "| +16 | Películas |\n\nSigue los viajes en el tiempo que hace un ingeniero para evitar cometer un asesinato."
         }
       ]
     },
@@ -444,12 +450,6 @@
       "group_title": "Películas",
       "epg": [
         {
-          "start": "20251116111930 +0100",
-          "stop": "20251116125849 +0100",
-          "title": "Destination Christmas",
-          "desc": "| +16 | Películas |\n\nEMMA WARNER siente que vive la Navidad todo el año. Como vicepresidenta sénior de una empresa de juguetes, ha tenido un gran año con el juguete más exitoso de la temporada, pero está agotada. Todo lo que quiere son unas vacaciones no festivas con chicos atractivos y una playa."
-        },
-        {
           "start": "20251116125850 +0100",
           "stop": "20251116143642 +0100",
           "title": "Navidad en Suiza",
@@ -490,6 +490,12 @@
           "stop": "20251117010250 +0100",
           "title": "Paraíso navideño (2018)",
           "desc": "| +16 | Películas |\n\nLa Navidad no es un buena época para Heidi Neill, una artista con problemas."
+        },
+        {
+          "start": "20251117010251 +0100",
+          "stop": "20251117023707 +0100",
+          "title": "Navidad vuelve a casa",
+          "desc": "| +16 | Películas |\n\nAl borde de una promoción, una exitosa corredora de bienes raíces, ABBEY, se ve obligada a regresar a su ciudad natal para reparar una casa victoriana heredada de su abuela. Al regresar a casa, decide vender la casa y contrata a un padre soltero, JOSH, para ayudar con las reparaciones."
         }
       ]
     },
@@ -618,12 +624,6 @@
       "group_title": "Películas",
       "epg": [
         {
-          "start": "20251116112729 +0100",
-          "stop": "20251116131039 +0100",
-          "title": "Un misterio para Aurora Teagarden: Un monton de problemas",
-          "desc": "| +12 | Películas |\n\nAurora Teagarden empieza a alarmarse cuando desaparece la sobrina de Martin Bartell y encuentran a su bebe escondido en una banera."
-        },
-        {
           "start": "20251116131040 +0100",
           "stop": "20251116144103 +0100",
           "title": "Blood Riders: The Devil Rides With Us",
@@ -664,6 +664,12 @@
           "stop": "20251117012443 +0100",
           "title": "The Thirsty Dead",
           "desc": "| +12 | Películas |\n\nBeautiful young girls are kidnapped off the streets of Manila by a death cult that needs their blood to remain immortal."
+        },
+        {
+          "start": "20251117012444 +0100",
+          "stop": "20251117032304 +0100",
+          "title": "The Devil And Leroy Bassett",
+          "desc": "| +12 | Películas |\n\nLeroy Bassett and his dim-witted brothers go on the lam after freeing their friend Keema from jail."
         }
       ]
     },
@@ -675,12 +681,6 @@
       "epgId": "verdi-tv",
       "group_title": "Películas",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Verdi TV",
-          "desc": "| +16 | Películas |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -750,6 +750,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "Verdi TV",
+          "desc": "| +16 | Películas |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "Verdi TV",
           "desc": "| +16 | Películas |\n\n"
         }
@@ -764,12 +770,6 @@
       "group_title": "Películas",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Feel Good TV",
-          "desc": "| +16 | Películas |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "Feel Good TV",
@@ -838,6 +838,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "Feel Good TV",
+          "desc": "| +16 | Películas |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "Feel Good TV",
           "desc": "| +16 | Películas |\n\n"
         }
@@ -910,12 +916,6 @@
       "group_title": "Películas",
       "epg": [
         {
-          "start": "20251116105637 +0100",
-          "stop": "20251116130050 +0100",
-          "title": "La venganza de Calamity Jane",
-          "desc": "| +7 | Películas |\n\nUn western que aborda de forma diferente la muerte de Wild Bill Hickok y la venganza que Calamity Jane emprende contra los hombres que conspiraron para matarlo. Mientras Jane está a la caza, tomándose la justicia por su mano, un agente de la ley recluta la ayuda del amigo de Jane, Colorado Charlie Utter, para seguir la pista de Jane y detenerla antes de que vaya demasiado lejos."
-        },
-        {
           "start": "20251116130051 +0100",
           "stop": "20251116145751 +0100",
           "title": "La Fiebre de la Pradera",
@@ -961,12 +961,6 @@
       "epgId": "crime-rakuten-tv",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116122836 +0100",
-          "stop": "20251116131827 +0100",
-          "title": "Esposas asesinas",
-          "desc": "| +16 | Crime |\n\nUna joven marcada por sus traumas infantiles lucha por rehacer su vida.  Conoce al hombre de sus sueños, pero, tras comprometerse, la relación se viene abajo.  Un peligroso juego de versiones irreconciliables desemboca en un final sangriento."
-        },
         {
           "start": "20251116131828 +0100",
           "stop": "20251116140928 +0100",
@@ -1044,6 +1038,12 @@
           "stop": "20251117012457 +0100",
           "title": "Murder Maps",
           "desc": "| +16 | Crime |\n\nEra la Segunda Guerra Mundial y Londres fue sacudida por el bombardeo de los aviones que volaban por encima. Pero abajo, en las calles, otro terrible peligro acechaba en las sombras. Un asesino en serie andaba suelto."
+        },
+        {
+          "start": "20251117012458 +0100",
+          "stop": "20251117021501 +0100",
+          "title": "Murder Maps",
+          "desc": "| +16 | Crime |\n\nMientras Europa se recuperaba de los daños de la Segunda Guerra Mundial, los soldados regresaban a casa desde la línea del frente. Pero un hombre recuperó todo el salvajismo y la brutalidad de la lucha."
         }
       ]
     },
@@ -1055,12 +1055,6 @@
       "epgId": "aguila-roja-rakuten-tv",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116112247 +0100",
-          "stop": "20251116125844 +0100",
-          "title": "Águila Roja",
-          "desc": "| +16 | Series |\n\nEl servicio de espionaje del rey ha conseguido robar a los británicos la clave para construir un arma bélica sin precedentes. Se trata de una maquina voladora que revolucionara la forma en que se enfrentan los ejércitos y que dará a España el triunfo definitivo."
-        },
         {
           "start": "20251116125845 +0100",
           "stop": "20251116144427 +0100",
@@ -1119,12 +1113,6 @@
       "epgId": "filmrise-sci-fi-es",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116120849 +0100",
-          "stop": "20251116130240 +0100",
-          "title": "Andromeda",
-          "desc": "| +13 | Series |\n\nDylan y su nueva flota de la Mancomunidad se amen a la flota Drago-Kazov, pero la encuentran mucho más grande de lo esperado."
-        },
         {
           "start": "20251116130241 +0100",
           "stop": "20251116135633 +0100",
@@ -1202,6 +1190,12 @@
           "stop": "20251117004323 +0100",
           "title": "Mutant X",
           "desc": "| +13 | Series |\n\nEl equipo se encuentra con algunas personas que intentan ingresar a un laboratorio de Genomex y descubren que son salvajes."
+        },
+        {
+          "start": "20251117004324 +0100",
+          "stop": "20251117013719 +0100",
+          "title": "Mutant X",
+          "desc": "| +13 | Series |\n\nUn nuevo mutante con el poder de la invisibilidad está trabajando contra Eckhart y Adam, a pesar de que estuvo involucrada con Adam en el pasado."
         }
       ]
     },
@@ -1296,6 +1290,12 @@
           "stop": "20251117010123 +0100",
           "title": "Cuando Vivas Conmigo",
           "desc": "| +13 | Series |\n\nGracias a Ismael, Armida logra recuperar su libertad y librarse definitivamente de Orlando. Entre tanto, Mabel regresa para confesarle a Felicito que espera un hijo suyo."
+        },
+        {
+          "start": "20251117010130 +0100",
+          "stop": "20251117015322 +0100",
+          "title": "La Ronca de Oro",
+          "desc": "| +13 | Series |\n\nÁlvaro recibe unos exámenes médicos que confirman la diabetes como causa de su continuo malestar físico. Helena es humillada en una entrevista por su matrimonio con German y Salas."
         }
       ]
     },
@@ -1384,6 +1384,12 @@
           "stop": "20251117010944 +0100",
           "title": "Episodio 1",
           "desc": "| +13 | Series |\n\nSe descubre una bomba sin explotar en Poplar, lo que convierte las celebraciones en un caos."
+        },
+        {
+          "start": "20251117010945 +0100",
+          "stop": "20251117020022 +0100",
+          "title": "Episodio 2",
+          "desc": "| +13 | Series |\n\nShelagh Mannion y el Dr. Turner se preparan para su discreta boda."
         }
       ]
     },
@@ -1395,18 +1401,6 @@
       "epgId": "beyblade-es",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116123202 +0100",
-          "stop": "20251116125706 +0100",
-          "title": "La Bey araña",
-          "desc": "| +TP | Anime |\n\nTyson está entrenando cuando llega Zeo de improviso y ve a Draciel y Dragoon en el aire y decide que él también quiere tener un Bit Beast. Los demás le dicen que no es un juguete, sino que tiene que ganárselo. La doctora K extrae un Bit Beast de la piedra y se lo da a Net, quien desafía a Tyson a un combate. Dragoon gana la batalla y Net huye llorando."
-        },
-        {
-          "start": "20251116125707 +0100",
-          "stop": "20251116132211 +0100",
-          "title": "Un Bit Beast que ni se ve ni se oye",
-          "desc": "| +TP | Anime |\n\nKai está entrenando solo en el parque y aparece un golpe de viento que empieza a destruirlo todo. Es uno de los Blades de la doctora K, que tiene un Bit Beast que controla el viento. Kai lucha con él y consigue derrotarlo."
-        },
         {
           "start": "20251116132212 +0100",
           "stop": "20251116134717 +0100",
@@ -1574,6 +1568,12 @@
           "stop": "20251117010436 +0100",
           "title": "El dios de Saturno, Kronos",
           "desc": "| +TP | Anime |\n\nGinka y Yuki se trasladan hasta un antiguo templo bey para combatir contra Bao y Aguma, del Puño de Beylin, en la final del torneo por equipos Toryumon. El equipo del puño de Beylin empieza con fuerza y pronto ponen en un aprieto a Gingka y a Yuki. Éste piensa con rapidez y desliza a su bey hasta el tornado que ha creado Aguma, consiguiendo volver las tornas."
+        },
+        {
+          "start": "20251117010437 +0100",
+          "stop": "20251117012942 +0100",
+          "title": "El combate de la torre de Babel",
+          "desc": "| +TP | Anime |\n\nTras ganar el torneo por equipos, Bao y Aguma desaparecen en un helicóptero. Johannes les sigue el rastro hasta un lugar inhóspito y les habla sobre el fragmento estelar del bey de Aguma. Mientras tanto, muy lejos de ahí, en un torneo en el desierto, los bladers intentan alcanzar lo alto de una torre con la esperanza de encontrar un bey muy especial si ganan. Kenta y Tsubasa se enfrentan para ser los primeros en llegar a lo más alto, pero Tsubasa vence."
         }
       ]
     },
@@ -1585,12 +1585,6 @@
       "epgId": "rakuten-viki-es",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116115343 +0100",
-          "stop": "20251116130712 +0100",
-          "title": "Why Her?",
-          "desc": "| +TP | Coreano |\n\nSu Jae es atacada por un USB relacionado con Gong Chan, pero rechaza una investigación policial."
-        },
         {
           "start": "20251116130718 +0100",
           "stop": "20251116141315 +0100",
@@ -1650,6 +1644,12 @@
           "stop": "20251117005920 +0100",
           "title": "Why Her?",
           "desc": "| +TP | Coreano |\n\nTras el funeral de su hija, Su Jae desaparece. Gong Chan la busca mientras Tae Guk trama su caída."
+        },
+        {
+          "start": "20251117005926 +0100",
+          "stop": "20251117020820 +0100",
+          "title": "Why Her?",
+          "desc": "| +TP | Coreano |\n\nSu Jae no consigue defenderse, pero ella y la asesoría jurídica comienzan su batalla final por la justicia."
         }
       ]
     },
@@ -1661,12 +1661,6 @@
       "epgId": "vive-kanal-d-drama",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116120009 +0100",
-          "stop": "20251116130003 +0100",
-          "title": "S01 E63 GUMUS",
-          "desc": "| +12 | Series |\n\nBerk le confiesa a Bahar lo que pasó en la boda de Mehmet y Gümüş. Gülsün le confiesa a su padre que se casó."
-        },
         {
           "start": "20251116130004 +0100",
           "stop": "20251116140000 +0100",
@@ -1738,6 +1732,12 @@
           "stop": "20251117010001 +0100",
           "title": "S01 E74 AMANECER",
           "desc": "| +12 | Series |\n\nDemet se encuentra con una increíble sorpresa al volver a casa. Melis sospecha que Kerem la engaña."
+        },
+        {
+          "start": "20251117010002 +0100",
+          "stop": "20251117020004 +0100",
+          "title": "S01 E75 AMANECER",
+          "desc": "| +12 | Series |\n\nCihan le dice a Jale que no la perdonará nunca por arruinarle el futuro al lado de la mujer que más amaba."
         }
       ]
     },
@@ -1749,12 +1749,6 @@
       "epgId": "todo-novelas",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116120614 +0100",
-          "stop": "20251116130346 +0100",
-          "title": "Correo de inocentes",
-          "desc": "| +7 | Series |\n\nPilar Carrasco es contadora en una firma de abogados. Sergio confiesa a Pilar que tiene novia y que se va a casar. Pilar, furiosa y dolida, le asegura que no será su amante y se va. Tres semanas después, Pilar descubre que está embarazada, lo que genera momentos de tensión y preocupación."
-        },
         {
           "start": "20251116130347 +0100",
           "stop": "20251116140101 +0100",
@@ -1832,6 +1826,12 @@
           "stop": "20251117011429 +0100",
           "title": "Amor Sin Limites",
           "desc": "| +7 | Series |\n\nZeca fue encarcelado por un crimen en el que no participó, ahora está libre y mientras intenta hacer una nueva vida se encuentra con un chico, sorprendentemente el chico es el hijo de Ema, su amante desde hace mucho tiempo."
+        },
+        {
+          "start": "20251117011430 +0100",
+          "stop": "20251117020045 +0100",
+          "title": "Amor Sin Limites",
+          "desc": "| +7 | Series |\n\nZeca fue encarcelado por un crimen en el que no participó, ahora está libre y mientras intenta hacer una nueva vida se encuentra con un chico, sorprendentemente el chico es el hijo de Ema, su amante desde hace mucho tiempo."
         }
       ]
     },
@@ -1843,12 +1843,6 @@
       "epgId": "bbc-top-gear-spa",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116115248 +0100",
-          "stop": "20251116125132 +0100",
-          "title": "Episodio 7",
-          "desc": "| +16 | Entretenimiento |\n\nRichard Hammond echa una mirada afectuosa a las carreras de turismos de los años 50."
-        },
         {
           "start": "20251116125133 +0100",
           "stop": "20251116135033 +0100",
@@ -1943,12 +1937,6 @@
       "epgId": "yu-gi-oh-new-spa",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116124257 +0100",
-          "stop": "20251116130755 +0100",
-          "title": "Control mímico: Parte 3",
-          "desc": "| +7 | Anime |\n\nEl hechizo Cartas Infinitas permite a Cuerdas tener un número ilimitado de cartas en su mazo, ¡así que Slifer el Dragón del Cielo de Cuerdas puede crecer hasta un poder de ataque infinito!"
-        },
         {
           "start": "20251116130756 +0100",
           "stop": "20251116133334 +0100",
@@ -2116,6 +2104,18 @@
           "stop": "20251117004610 +0100",
           "title": "El secreto de los guardianes de tumbas",
           "desc": "| +7 | Anime |\n\nA medida que crece la maldad de Marik, Ishizu revela los secretos de su linaje: ¿Cómo pasó Marik de niño bondadoso a tirano ávido de poder que quiere dominar el mundo? ¿Podrá Yugi salvar a Marik del borde de las tinieblas, o ya es demasiado tarde?"
+        },
+        {
+          "start": "20251117004611 +0100",
+          "stop": "20251117011107 +0100",
+          "title": "El enfrentamiento en las sombras: Marik contra Bakura: Parte 1",
+          "desc": "| +7 | Anime |\n\nCon su pacto anterior roto, Bakura se bate en duelo con Marik para conseguir el derecho a controlar la Vara del Milenio y el Anillo del Milenio. ¡El perdedor quedará atrapado en el Reino de las Sombras para siempre!"
+        },
+        {
+          "start": "20251117011108 +0100",
+          "stop": "20251117013606 +0100",
+          "title": "El enfrentamiento en las sombras: Marik contra Bakura: Parte 2",
+          "desc": "| +7 | Anime |\n\nBakura y el Marik bueno invocan al Dragón Alado de Ra, listo para explotar y desterrar al Marik malo al Reino de las Sombras. Pero el Dragón Alado de Ra tiene más de una habilidad especial. ¡Y el malvado Marik sabe utilizarlas todas!"
         }
       ]
     },
@@ -2127,24 +2127,6 @@
       "epgId": "mr-bean-es",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116123905 +0100",
-          "stop": "20251116125221 +0100",
-          "title": "Cena para dos",
-          "desc": "| +TP | Infantil |\n\nCuando el Sr. Bean te invite a cenar, probablemente sea mejor que lleves tus propios sándwiches."
-        },
-        {
-          "start": "20251116125222 +0100",
-          "stop": "20251116130533 +0100",
-          "title": "La pelota",
-          "desc": "| +TP | Infantil |\n\nEl Sr. Bean llega a lo alto de la escalera... y se queda atascado."
-        },
-        {
-          "start": "20251116130534 +0100",
-          "stop": "20251116131845 +0100",
-          "title": "Dolor de muelas",
-          "desc": "| +TP | Infantil |\n\nEl Sr. Bean se mete en camisa de once varas cuando intenta hacer odontología de \"hágalo usted mismo\"."
-        },
         {
           "start": "20251116131846 +0100",
           "stop": "20251116133158 +0100",
@@ -2462,6 +2444,24 @@
           "stop": "20251117005324 +0100",
           "title": "Bean en la ópera",
           "desc": "| +TP | Infantil |\n\nEl auto del Sr. Bean se ha descompuesto y llega tarde a encontrarse con Irma en la ópera."
+        },
+        {
+          "start": "20251117005325 +0100",
+          "stop": "20251117010624 +0100",
+          "title": "Taxi Bean",
+          "desc": "| +TP | Infantil |\n\nCuando uno de los autos de juguete de su pista de carreras se estropea, el Sr. Bean decide comprar uno nuevo."
+        },
+        {
+          "start": "20251117010625 +0100",
+          "stop": "20251117011924 +0100",
+          "title": "Bean musculoso",
+          "desc": "| +TP | Infantil |\n\nBean necesita impresionar a Irma, quien está enamorada del guapo repartidor."
+        },
+        {
+          "start": "20251117011925 +0100",
+          "stop": "20251117013223 +0100",
+          "title": "Un nuevo amigo",
+          "desc": "| +TP | Infantil |\n\nUn pajarito quiere hacerse amigo del Sr. Bean, pero su graznido molesta a la Sra. Wicket."
         }
       ]
     },
@@ -2473,12 +2473,6 @@
       "epgId": "mr-bean-live-action",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116123507 +0100",
-          "stop": "20251116130538 +0100",
-          "title": "Mr Bean Live Action",
-          "desc": "| +TP | Series |\n\nMr Bean treats himself to a weekend at a posh hotel."
-        },
         {
           "start": "20251116130539 +0100",
           "stop": "20251116133403 +0100",
@@ -2622,6 +2616,12 @@
           "stop": "20251117010548 +0100",
           "title": "Mr Bean Live Action",
           "desc": "| +TP | Series |\n\nMr Bean buys a portable television but can't get it to work properly."
+        },
+        {
+          "start": "20251117010549 +0100",
+          "stop": "20251117013632 +0100",
+          "title": "Mr Bean Live Action",
+          "desc": "| +TP | Series |\n\nMr Bean rushes to the dentist's office after oversleeping."
         }
       ]
     },
@@ -2633,12 +2633,6 @@
       "epgId": "platos-sucios",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116123652 +0100",
-          "stop": "20251116131031 +0100",
-          "title": "Platos Sucios",
-          "desc": "| +16 | Series |\n\nLa abuela de David no puede dormir, está hiperactiva. El médico que va a visitarla le receta unas \"hierbas\" de maría. Todos deciden aprovechar la ocasión."
-        },
         {
           "start": "20251116131032 +0100",
           "stop": "20251116134527 +0100",
@@ -2758,6 +2752,18 @@
           "stop": "20251117004915 +0100",
           "title": "Platos Sucios",
           "desc": "| +16 | Series |\n\nLópez queda para cenar con Ramón y con su mujer, Rosa. Durante la cena, Rosa no le dirige la palabra pero, a espaldas de Ramón, le tira los tejos."
+        },
+        {
+          "start": "20251117004916 +0100",
+          "stop": "20251117011855 +0100",
+          "title": "Platos Sucios",
+          "desc": "| +16 | Series |\n\nPol descubre que Emma está enamorada de López y les prepara una cita a través de un anónimo."
+        },
+        {
+          "start": "20251117011856 +0100",
+          "stop": "20251117014513 +0100",
+          "title": "Platos Sucios",
+          "desc": "| +16 | Series |\n\nDavid descubre que su madre tiene un amante y decide contárselo a su padre pero no sabe por donde empezar."
         }
       ]
     },
@@ -2916,12 +2922,6 @@
       "group_title": "Series",
       "epg": [
         {
-          "start": "20251116122720 +0100",
-          "stop": "20251116131822 +0100",
-          "title": "Pestañea",
-          "desc": "| +13 | Series |\n\nTras los sucesos traumáticos de la noche (Ep. 413), Andy y Dov intentan tranquilizarse en un restaurante abierto las 24 horas, pero un asalto imprevisto los pilla por sorpresa y fuera de servicio. Mientras, los cansados agentes de la División 15 intentan contener los daños colaterales bajo la vigilancia de un nuevo y duro inspector."
-        },
-        {
           "start": "20251116131823 +0100",
           "stop": "20251116140925 +0100",
           "title": "Ella solita",
@@ -3004,6 +3004,12 @@
           "stop": "20251117011003 +0100",
           "title": "Pasando página",
           "desc": "| +13 | Series |\n\nEl hermano desaparecido de Nick llega con nueva información sobre alguien de su trágico pasado y Nick intenta encontrarlo por su cuenta. Pero Juliet no lo pierde de vista y Nick se ve obligado a contarle los secretos de su pasado."
+        },
+        {
+          "start": "20251117011004 +0100",
+          "stop": "20251117020052 +0100",
+          "title": "Un verdadero caballero",
+          "desc": "| +13 | Series |\n\nTraci no aparece para su primera redada y la División 15 teme que un infame traficante de armas la haya secuestrado. Pero cuando Andy descubre que el violador en serie que no atraparon (Ep. 512) ha vuelto, todos deberán colaborar para encontrar a Traci. Mientras, Traci se enfrenta a su captor e intenta escapar antes de que sea tarde."
         }
       ]
     },
@@ -3015,12 +3021,6 @@
       "epgId": "wedotv-amor",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116123734 +0100",
-          "stop": "20251116131745 +0100",
-          "title": "El Desprecio - S01:E19",
-          "desc": "| +12 | Series |\n\nClara practica sus ejercicios de dicción con la boca llena de piedras cuando Raúl la sorprende."
-        },
         {
           "start": "20251116131746 +0100",
           "stop": "20251116141102 +0100",
@@ -3104,6 +3104,12 @@
           "stop": "20251117005919 +0100",
           "title": "Te Tengo en Salsa - S01:E16",
           "desc": "| +12 | Series |\n\nAdriana y Carlos Raúl comparten una copa en el momento que Ninoska, eufórica, aborda al médico a fin de agradecerle el romántico detalle que tuvo con ella."
+        },
+        {
+          "start": "20251117005920 +0100",
+          "stop": "20251117014532 +0100",
+          "title": "La Trepadora - S01:E109",
+          "desc": "| +12 | Series |\n\nPara evitar más enfrentamientos entre los Guanipa y los Del Casal, Sergio amenaza a Victoria con quitarle el control de Cantarrana, pero una imponente mujer se niega a perder sus tierras. Desde su nuevo hogar en Estados Unidos, Adelaida preocupada se comunica con su madre para saber si su hija finalmente perdonó a Hilario. Sin el consentimiento de Victoria, Sergio llega a la hacienda Los Samanes para entregarle a Nicolás una cantidad de dinero como forma de pago por la inundación de los maizales que ocasionó Victoria, quien llega en ese momento; Nicolás asegura que podría quitarle Cantarrana a Victoria ya que los campesinos de la zona quedaron damnificados, pero Sergio golpea con fuerza a..."
         }
       ]
     },
@@ -3115,12 +3121,6 @@
       "epgId": "animevision",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "AnimeVisión",
-          "desc": "| +TP | Anime |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -3190,6 +3190,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "AnimeVisión",
+          "desc": "| +TP | Anime |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "AnimeVisión",
           "desc": "| +TP | Anime |\n\n"
         }
@@ -3204,12 +3210,6 @@
       "group_title": "Series",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "AnimeVisión Classics",
-          "desc": "| +TP | Anime |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "AnimeVisión Classics",
@@ -3280,6 +3280,12 @@
           "stop": "20251117005959 +0100",
           "title": "AnimeVisión Classics",
           "desc": "| +TP | Anime |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
+          "title": "AnimeVisión Classics",
+          "desc": "| +TP | Anime |\n\n"
         }
       ]
     },
@@ -3291,18 +3297,6 @@
       "epgId": "the-pet-collective-new",
       "group_title": "Entretenimiento",
       "epg": [
-        {
-          "start": "20251116122231 +0100",
-          "stop": "20251116125325 +0100",
-          "title": "TPC Theatre",
-          "desc": "| +7 | Entretenimiento |\n\nBarktholomew returns to take on pets who get stuck, feel embarrasssed, and go crazy for catnip."
-        },
-        {
-          "start": "20251116125331 +0100",
-          "stop": "20251116132425 +0100",
-          "title": "We Heart Animals",
-          "desc": "| +7 | Entretenimiento |\n\nWe couldn't leave out the fish! Or the hamsters, or anyone really."
-        },
         {
           "start": "20251116132431 +0100",
           "stop": "20251116135625 +0100",
@@ -3434,6 +3428,18 @@
           "stop": "20251117005125 +0100",
           "title": "Animals Undercover",
           "desc": "| +7 | Entretenimiento |\n\nAnimals aren’t always the hero- sometimes they’re the villain, or a plain old bad neighbor."
+        },
+        {
+          "start": "20251117005131 +0100",
+          "stop": "20251117012225 +0100",
+          "title": "Animals Undercover",
+          "desc": "| +7 | Entretenimiento |\n\nAnimals are brave and heroic, but also guilty and criminal. Tune in to see which side of the law they fall on!"
+        },
+        {
+          "start": "20251117012231 +0100",
+          "stop": "20251117015325 +0100",
+          "title": "World's Most Talented Pets",
+          "desc": "| +7 | Entretenimiento |\n\nFrom ballin' dogs to basket sinking birds, these talented pets are here to shoot, score, and steal the show!"
         }
       ]
     },
@@ -3445,12 +3451,6 @@
       "epgId": "people-are-awesome-new",
       "group_title": "Entretenimiento",
       "epg": [
-        {
-          "start": "20251116120006 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "People Are Awesome",
-          "desc": "| +TP | Entretenimiento |\n\nDiscover, achieve, level up. We’re here to show you that anyone can do extraordinary things."
-        },
         {
           "start": "20251116130006 +0100",
           "stop": "20251116140000 +0100",
@@ -3520,6 +3520,12 @@
         {
           "start": "20251117000006 +0100",
           "stop": "20251117010000 +0100",
+          "title": "People Are Awesome",
+          "desc": "| +TP | Entretenimiento |\n\nDiscover, achieve, level up. We’re here to show you that anyone can do extraordinary things."
+        },
+        {
+          "start": "20251117010006 +0100",
+          "stop": "20251117020000 +0100",
           "title": "People Are Awesome",
           "desc": "| +TP | Entretenimiento |\n\nDiscover, achieve, level up. We’re here to show you that anyone can do extraordinary things."
         }
@@ -3598,6 +3604,12 @@
           "stop": "20251117010000 +0100",
           "title": "The Happys",
           "desc": "| +TP | Entretenimiento |\n\nAs Tracy's relationship deteriorates, she finds unexpected solace in her quirky neighbors."
+        },
+        {
+          "start": "20251117010006 +0100",
+          "stop": "20251117024500 +0100",
+          "title": "Trick",
+          "desc": "| +TP | Entretenimiento |\n\nThe misadventures of two young gay men, trying to find a place to be alone, one night in Manhattan."
         }
       ]
     },
@@ -3609,12 +3621,6 @@
       "epgId": "jukin-fail-army-new",
       "group_title": "Entretenimiento",
       "epg": [
-        {
-          "start": "20251116122928 +0100",
-          "stop": "20251116130022 +0100",
-          "title": "World's Most Expensive Fails",
-          "desc": "| +TP | Entretenimiento |\n\nOnly one per district is chosen...but all of us win."
-        },
         {
           "start": "20251116130028 +0100",
           "stop": "20251116133221 +0100",
@@ -3752,6 +3758,12 @@
           "stop": "20251117005820 +0100",
           "title": "Humans VS. Everything",
           "desc": "| +TP | Entretenimiento |\n\nIt's time to witness the fitness. Will humans power through pain, or is failure a destined SWOLLmate?"
+        },
+        {
+          "start": "20251117005826 +0100",
+          "stop": "20251117012920 +0100",
+          "title": "Humans VS. Everything",
+          "desc": "| +TP | Entretenimiento |\n\nTravel turmoil! Get ready to watch humans navigate hilarious mishaps with all kinds of transportation!"
         }
       ]
     },
@@ -3763,12 +3775,6 @@
       "epgId": "top-barca-es",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116113220 +0100",
-          "stop": "20251116131722 +0100",
-          "title": "PARTIDO COMPLETO | Barça - Athletic Club | LaLiga 15/16",
-          "desc": "| +TP | Deportes |\n\nRevive el partido de la liga 2015/16 entre el Barça y el  Athletic Club"
-        },
         {
           "start": "20251116131723 +0100",
           "stop": "20251116141915 +0100",
@@ -3828,6 +3834,12 @@
           "stop": "20251117010719 +0100",
           "title": "PARTIDO COMPLETO | Barça - Oud-Heverbee Leuven Ladies | UEFA Women's Champions League 2025/2026",
           "desc": "| +TP | Deportes |\n\nQuinta jornada de la Champions 2025/26 con el Barça - Leuven Ladies en el Johan Cruyff"
+        },
+        {
+          "start": "20251117010720 +0100",
+          "stop": "20251117015932 +0100",
+          "title": "Orígenes: Alejandro Balde",
+          "desc": "| +TP | Deportes |\n\nDe \"Els Porxos\" al Camp Nou... Todo lo que ha llevado a Alejandro Balde a ser quien es hoy"
         }
       ]
     },
@@ -3839,12 +3851,6 @@
       "epgId": "fifa-plus-es-new",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116123531 +0100",
-          "stop": "20251116131249 +0100",
-          "title": "Africa Stories",
-          "desc": "| +TP | Deportes |\n\nUn continente, cinco historias... descubre por qué el fútbol es más que un juego en África."
-        },
         {
           "start": "20251116131255 +0100",
           "stop": "20251116153016 +0100",
@@ -3898,6 +3904,12 @@
           "stop": "20251117010408 +0100",
           "title": "Copa Mundial Sub-17 de la FIFA Catar 2025™: Resúmenes Destacados",
           "desc": "| +TP | Deportes |\n\nMira los últimos resúmenes de la Copa Mundial Sub-17 de la FIFA Catar 2025™."
+        },
+        {
+          "start": "20251117010414 +0100",
+          "stop": "20251117025724 +0100",
+          "title": "Francia vs Argentina | Octavos de final | Copa Mundial de la FIFA Rusia 2018™ | Partido completo",
+          "desc": "| +TP | Deportes |\n\nVídeo del partido completo entre Francia y Argentina jugado en el Kazan Arena, Kazán, el sábado 30 de junio de 2018."
         }
       ]
     },
@@ -3909,12 +3921,6 @@
       "epgId": "mypadel-tv",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "MyPadel TV",
-          "desc": "| +TP | Deportes |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -3984,6 +3990,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "MyPadel TV",
+          "desc": "| +TP | Deportes |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "MyPadel TV",
           "desc": "| +TP | Deportes |\n\n"
         }
@@ -3998,12 +4010,6 @@
       "group_title": "Deportes",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "LaLiga Inside",
-          "desc": "| +TP | Deportes |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "LaLiga Inside",
@@ -4072,6 +4078,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "LaLiga Inside",
+          "desc": "| +TP | Deportes |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "LaLiga Inside",
           "desc": "| +TP | Deportes |\n\n"
         }
@@ -4174,6 +4186,12 @@
           "stop": "20251117005740 +0100",
           "title": "Serie A Inter-Torino 2025/2026 - 1T",
           "desc": "| +TP | Deportes |\n\nRelive the Serie A match Inter-Torino of the 2025/2026 season"
+        },
+        {
+          "start": "20251117005741 +0100",
+          "stop": "20251117015605 +0100",
+          "title": "Serie A Inter-Torino 2025/2026 - 2T",
+          "desc": "| +TP | Deportes |\n\nRelive the Serie A match Inter-Torino of the 2025/2026 season"
         }
       ]
     },
@@ -4185,12 +4203,6 @@
       "epgId": "fuel-tv-new",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "On Surfari - Caribbean",
-          "desc": "| +7 | Deportes |\n\nShannon and Shayne pmove to the Caribbean and run into Jimmy Buffett and a bunch of Roxy girls."
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116133000 +0100",
@@ -4310,6 +4322,12 @@
           "stop": "20251117010000 +0100",
           "title": "M80 - Season 4 - Alvaro Dal Fara",
           "desc": "| +7 | Deportes |\n\nFeatured rider, Alvaro Dal Farra, \"90 Seconds\" of Jeremy Lusk's tricks, \"Blowin up\" with Jack Kraus and mor..."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117015000 +0100",
+          "title": "Camp Woodward - Season 10 - Episode 3",
+          "desc": "| +7 | Deportes |\n\nCyprus drops in Mini Mega with Gavo and Myles. Kader's rail redemption fails."
         }
       ]
     },
@@ -4321,12 +4339,6 @@
       "epgId": "billiards-tv",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116104432 +0100",
-          "stop": "20251116130639 +0100",
-          "title": "2022 LAS VEGAS World Cup 3-Cushion",
-          "desc": "| +7 | Deportes |\n\nWatch L16 - Jung Han HEO v Huberney CATANO at the 2022 LASVEGAS World Cup 3-C with English commentary."
-        },
         {
           "start": "20251116130645 +0100",
           "stop": "20251116145740 +0100",
@@ -4379,18 +4391,6 @@
       "epgId": "hard-knocks-fighting-championship",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116121812 +0100",
-          "stop": "20251116125332 +0100",
-          "title": "M-1 Challenge 81 - Movsar Evloev v. Pavel Vitruk",
-          "desc": "| +12 | Deportes |\n\nMovsar Evloev v. Pavel Vitruk"
-        },
-        {
-          "start": "20251116125333 +0100",
-          "stop": "20251116131105 +0100",
-          "title": "INDIVIDUAL FIGHTS",
-          "desc": "| +12 | Deportes |\n\nAbubakar Mestoev vs Anatoly Lyagu"
-        },
         {
           "start": "20251116131106 +0100",
           "stop": "20251116141347 +0100",
@@ -4510,6 +4510,18 @@
           "stop": "20251117005214 +0100",
           "title": "OUT OF THE CAGE",
           "desc": "| +12 | Deportes |\n\nOut of the Cage reveals the private thoughts and emotions of a fight sport athlete, the ambition that drives them and how they are affected when encountering defeat or facing triumph. Featuring Farah Taj."
+        },
+        {
+          "start": "20251117005215 +0100",
+          "stop": "20251117011541 +0100",
+          "title": "HKFC 46 - Leonardo Xavier v. Vyron Phillips",
+          "desc": "| +12 | Deportes |\n\nProfessional and Amateur fighters from across North America battle it out in Hard Knocks' cage. Leonardo Xavier v. Vyron Phillips."
+        },
+        {
+          "start": "20251117011542 +0100",
+          "stop": "20251117014856 +0100",
+          "title": "M-1 Challenge 81 - Movsar Evloev v. Pavel Vitruk",
+          "desc": "| +12 | Deportes |\n\nMovsar Evloev v. Pavel Vitruk"
         }
       ]
     },
@@ -4555,12 +4567,6 @@
       "epgId": "surf-channel",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Surf Channel",
-          "desc": "| +TP | Deportes |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -4630,6 +4636,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "Surf Channel",
+          "desc": "| +TP | Deportes |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "Surf Channel",
           "desc": "| +TP | Deportes |\n\n"
         }
@@ -4874,6 +4886,12 @@
           "stop": "20251117004751 +0100",
           "title": "Roaring To Victory - Jaguar",
           "desc": "| +TP | Deportes |\n\nAfter an absence of almost three decades, Jaguar returned to top flight sportscar racing in 1985. This is the action-packed story of how the legendary British marque roared back to victory.    Archive race footage traces the full story of how Tom Walkinshaw Racing took Jaguar to the top, claiming World Championship success and securing Jaguar's first victory at the Le Mans 24 Hours for 31 years.    This film features highlights from the road to victory, from the debut of the XJR-6 at Canada's Mosport in August 1985 through to the 1988 Le Mans triumph of the XJR-9LM. You'll see the Tony Southgate-designed Jaguars in action at iconic circuits like Spa, Silverstone, Monza, Fuji and, of..."
+        },
+        {
+          "start": "20251117004757 +0100",
+          "stop": "20251117030034 +0100",
+          "title": "1989 24 Hours of Le Mans",
+          "desc": "| +TP | Deportes |\n\nIncredible footage brings you the full story of more than 3,200 miles of racing at the classic Circuit de la Sarthe as the Porsches, Jaguars and Mercedes-powere Suabers battled with each other."
         }
       ]
     },
@@ -4885,12 +4903,6 @@
       "epgId": "racer-international",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Prodigy Racing League",
-          "desc": "| +7 | Deportes |\n\nInfo not available"
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116140000 +0100",
@@ -4986,6 +4998,12 @@
           "stop": "20251117010000 +0100",
           "title": "Prodigy Racing League",
           "desc": "| +7 | Deportes |\n\nInfo not available"
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117020000 +0100",
+          "title": "Prodigy Racing League",
+          "desc": "| +7 | Deportes |\n\nInfo not available"
         }
       ]
     },
@@ -5050,6 +5068,12 @@
           "stop": "20251117005432 +0100",
           "title": "Premier Padel 2025 Milano P1 Highlights",
           "desc": "| +12 | Deportes |\n\nRevive los mejores momentos del Milano Premier Padel P1 en Milán con las mejores parejas del circuito para disputar duelos intensos en pistas de alto nivel."
+        },
+        {
+          "start": "20251117005438 +0100",
+          "stop": "20251117045432 +0100",
+          "title": "EN DIRECTO: Premier Padel 2025 Dubai P1 Final",
+          "desc": "| +12 | Deportes |\n\nSigue la retransmisión en español de las finales del Dubai Premier Padel P1 desde el Hamdan Sports Complex."
         }
       ]
     },
@@ -5061,12 +5085,6 @@
       "epgId": "motorvision-tv-spanish",
       "group_title": "Deportes",
       "epg": [
-        {
-          "start": "20251116120001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Motorvision ES",
-          "desc": "| +7 | Formula 1 |\n\nMotorvision ES"
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116140000 +0100",
@@ -5136,6 +5154,12 @@
         {
           "start": "20251117000001 +0100",
           "stop": "20251117010000 +0100",
+          "title": "Motorvision ES",
+          "desc": "| +7 | Formula 1 |\n\nMotorvision ES"
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117020000 +0100",
           "title": "Motorvision ES",
           "desc": "| +7 | Formula 1 |\n\nMotorvision ES"
         }
@@ -5213,18 +5237,6 @@
       "epgId": "lifestyle-rakuten-tv",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116122555 +0100",
-          "stop": "20251116124939 +0100",
-          "title": "La Cocina de ¡HOLA!",
-          "desc": "| +16 | Estilo de vida |\n\n¿Hay algún plato más veraniego y saludable que un buen gazpacho o un salmorejo fresquito? Pepa Muñoz nos muestra las diferencias entre los dos y nos ayuda a elegir los mejores ingredientes."
-        },
-        {
-          "start": "20251116124940 +0100",
-          "stop": "20251116131341 +0100",
-          "title": "La Cocina de ¡HOLA!",
-          "desc": "| +16 | Estilo de vida |\n\nPepa Muñoz nos enseña a hacer tres tipos de ensaladilla rusa diferentes: con gambas, la tradicional y una versión con encurtidos."
-        },
         {
           "start": "20251116131342 +0100",
           "stop": "20251116134625 +0100",
@@ -5320,6 +5332,12 @@
           "stop": "20251117004625 +0100",
           "title": "Gipsy Kings",
           "desc": "| +16 | Estilo de vida |\n\nA pesar de la tensión vivida, Rebeca se ha quedado removida tras el encuentro con José, aunque no sabe si será capaz de decírselo algún día. Ajena a este tsunami de sentimientos, Marisol recibe en Plasencia su primera clase práctica de moto que acaba en accidente."
+        },
+        {
+          "start": "20251117004626 +0100",
+          "stop": "20251117021130 +0100",
+          "title": "Volando Voy",
+          "desc": "| +16 | Estilo de vida |\n\nJesús Calleja visita Almería, en concreto el Valle del Andaraz. Una zona que en el siglo XIX estaba cubierta de árboles pero la minería y el abandono de los cultivos dejaron los bosques pelados. Es una de la zonas más áridas del mundo, pero muchos quieren que vuelva a ser verde."
         }
       ]
     },
@@ -5389,12 +5407,6 @@
       "epgId": "fashion-tv",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "PREMIER",
-          "desc": "| +7 | Estilo de vida |\n\nYour premier fashion destination! PREMIER showcases the most exquisite haute joaillerie, bespoke fashion creations, and groundbreaking runway moments. Step into the world where luxury begins!"
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116133000 +0100",
@@ -5538,6 +5550,12 @@
           "stop": "20251117010000 +0100",
           "title": "THE HIGHLIGHT REEL",
           "desc": "| +7 | Estilo de vida |\n\nRelive the ultimate glamour! THE HIGHLIGHT REEL brings you the most unforgettable moments from luxury fashion events and red carpet extravaganzas. Catch every dazzling detail and celebrity look!"
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117013000 +0100",
+          "title": "GLAM ZONE",
+          "desc": "| +7 | Estilo de vida |\n\nGet your daily glam fix! GLAM ZONE dives into celebrity fashion, exclusive beauty trends, and the dazzling lives of the stars. Elevate your everyday with pure dazzle!"
         }
       ]
     },
@@ -5549,12 +5567,6 @@
       "epgId": "the-design-network-new",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "The High Low Life",
-          "desc": "| +TP | Estilo de vida |\n\nSabrina's guests bring the burn, talk ultra-chic wardrobes, and share a budget-friendly dinner plan."
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116133000 +0100",
@@ -5698,6 +5710,12 @@
           "stop": "20251117010000 +0100",
           "title": "Sleek & Scandinavian Cozy Cabins / Tiny Treehouse Overlooks",
           "desc": "| +TP | Estilo de vida |\n\nLevi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117013000 +0100",
+          "title": "The 64,000-Foot Ranch &  The Arizona Villa Imported from Italy",
+          "desc": "| +TP | Estilo de vida |\n\nDesigner Kelli Ellis takes her curiosity behind the doors of homes with a little something EXTRA."
         }
       ]
     },
@@ -5709,12 +5727,6 @@
       "epgId": "1-1-travel",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "1+1 Travel",
-          "desc": "| +TP | Estilo de vida |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -5786,6 +5798,12 @@
           "stop": "20251117005959 +0100",
           "title": "1+1 Travel",
           "desc": "| +TP | Estilo de vida |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
+          "title": "1+1 Travel",
+          "desc": "| +TP | Estilo de vida |\n\n"
         }
       ]
     },
@@ -5797,18 +5815,6 @@
       "epgId": "travelxp-es",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116121439 +0100",
-          "stop": "20251116124433 +0100",
-          "title": "City Breaks",
-          "desc": "| +7 | Estilo de vida |\n\nMachen Sie eine Pause von Ihrer alltäglichen Routine und entdecken Sie, was verschiedene Städte mit City Breaks zu bieten haben."
-        },
-        {
-          "start": "20251116124440 +0100",
-          "stop": "20251116131434 +0100",
-          "title": "Quest",
-          "desc": "| +7 | Estilo de vida |\n\nYa sean recetas que evolucionaron a partir de la caza o platos que se prepararon como ofrendas a Dios, Alex descubre los secretos de la cocina real de Bagheli."
-        },
         {
           "start": "20251116131440 +0100",
           "stop": "20251116134434 +0100",
@@ -5946,6 +5952,18 @@
           "stop": "20251117004447 +0100",
           "title": "City Breaks",
           "desc": "| +7 | Estilo de vida |\n\nDesde la iglesia de San Matías hasta el Palacio Real, Catriona explora las atracciones icónicas de Budapest, \"el París del Este\"."
+        },
+        {
+          "start": "20251117004453 +0100",
+          "stop": "20251117011447 +0100",
+          "title": "Xplore Austria",
+          "desc": "| +7 | Estilo de vida |\n\nDesde una ópera hasta palacios barrocos, las magníficas reliquias del pasado imperial de Viena tienen muchas historias que contar."
+        },
+        {
+          "start": "20251117011454 +0100",
+          "stop": "20251117014448 +0100",
+          "title": "Off The Grid",
+          "desc": "| +7 | Estilo de vida |\n\nA través de aventuras como el paravelismo en Kavaratti y el buceo en Bangaram, Alex descubre la belleza de las islas de coral de Lakshadweep."
         }
       ]
     },
@@ -5957,12 +5975,6 @@
       "epgId": "vivir-con-gatos",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Vivir con gatos",
-          "desc": "| +TP | Estilo de vida |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -6032,6 +6044,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "Vivir con gatos",
+          "desc": "| +TP | Estilo de vida |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "Vivir con gatos",
           "desc": "| +TP | Estilo de vida |\n\n"
         }
@@ -6046,12 +6064,6 @@
       "group_title": "Estilo de vida",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Vivir con perros",
-          "desc": "| +TP | Estilo de vida |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "Vivir con perros",
@@ -6122,6 +6134,12 @@
           "stop": "20251117005959 +0100",
           "title": "Vivir con perros",
           "desc": "| +TP | Estilo de vida |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
+          "title": "Vivir con perros",
+          "desc": "| +TP | Estilo de vida |\n\n"
         }
       ]
     },
@@ -6133,12 +6151,6 @@
       "epgId": "stingray-naturescape",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116115901 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Beyond Infinity 1",
-          "desc": "| +TP | Estilo de vida |\n\nSoaring away to different galaxies rich in colors and computer-generated space visuals; paired with spacious ambient instrumental music created for immersive relaxation; featuring visuals and music by Dutch artist Nimanty."
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116135900 +0100",
@@ -6210,6 +6222,12 @@
           "stop": "20251117005900 +0100",
           "title": "Relaxing Nature Sceneries",
           "desc": "| +TP | Estilo de vida |\n\nThe filmmaker provides a collection of peaceful nature scenes and tranquil vistas that will soothe body and soul."
+        },
+        {
+          "start": "20251117005901 +0100",
+          "stop": "20251117015900 +0100",
+          "title": "Dolphin Voyage Relaxation",
+          "desc": "| +TP | Estilo de vida |\n\nUnderwater cinematography, a synergistic blend of audio including underwater nature sounds, and calming ambient music combine to induce relaxtion in the deep blue calming ocean with a pod of friendly dolphins."
         }
       ]
     },
@@ -6221,18 +6239,6 @@
       "epgId": "5-minutes-craft-es",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116123411 +0100",
-          "stop": "20251116124631 +0100",
-          "title": "Trucos de belleza para todos: ¡Desbloquea tu mejor look!",
-          "desc": "| +TP | Entretenimiento |\n\nDescubre un tesoro de trucos de belleza para todos los gustos. En este vídeo, compartimos consejos y trucos innovadores para mejorar tu rutina de belleza, independientemente de tu tipo de piel o estilo."
-        },
-        {
-          "start": "20251116124632 +0100",
-          "stop": "20251116130529 +0100",
-          "title": "Trucos de cocina geniosos ¡Que tienes que probar!",
-          "desc": "| +TP | Entretenimiento |\n\n¡Transforma tu experiencia culinaria con estos innovadores trucos de cocina!"
-        },
         {
           "start": "20251116130530 +0100",
           "stop": "20251116132827 +0100",
@@ -6490,6 +6496,18 @@
           "stop": "20251117010054 +0100",
           "title": "¡Hacks Virales Desatados: Trucos Caseros que Debes Probar!",
           "desc": "| +TP | Entretenimiento |\n\nÚnete a nosotros mientras nos sumergimos en una colección de trucos virales aleatorios diseñados para simplificar tu vida en casa. Desde trucos peculiares hasta soluciones prácticas, observa cómo probamos estos trucos para ver cuáles realmente cumplen con su cometido."
+        },
+        {
+          "start": "20251117010055 +0100",
+          "stop": "20251117012412 +0100",
+          "title": "¡Trucos de reparación del hogar inteligentes y creativos que necesitas conocer!",
+          "desc": "| +TP | Entretenimiento |\n\nDesbloquea tu maestro de bricolaje interior con estos ingeniosos y fáciles trucos de reparación para el hogar. Desde arreglos rápidos hasta soluciones creativas, estos consejos te ayudarán a abordar las reparaciones del hogar como un experto experimentado."
+        },
+        {
+          "start": "20251117012413 +0100",
+          "stop": "20251117014950 +0100",
+          "title": "La colección definitiva de fidget y slime: ¡Trucos, manualidades y tesoros escondidos!",
+          "desc": "| +TP | Entretenimiento |\n\nSumérgete en el mundo de la satisfacción sensorial con esta compilación definitiva de squishes, juguetes inquietantes y trucos con slime. Descubre proyectos únicos de bricolaje y juguetes satisfactorios que mantendrán tus manos ocupadas y tu creatividad fluyendo."
         }
       ]
     },
@@ -6501,18 +6519,6 @@
       "epgId": "hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116122128 +0100",
-          "stop": "20251116124512 +0100",
-          "title": "La Cocina de ¡HOLA!",
-          "desc": "| +13 | Estilo de vida |\n\n¿Hay algún plato más veraniego y saludable que un buen gazpacho o un salmorejo fresquito? Pepa Muñoz nos muestra las diferencias entre los dos y nos ayuda a elegir los mejores ingredientes."
-        },
-        {
-          "start": "20251116124513 +0100",
-          "stop": "20251116130915 +0100",
-          "title": "La Cocina de ¡HOLA!",
-          "desc": "| +13 | Estilo de vida |\n\nPepa Muñoz, con la ayuda de Jorge Brazález, nos enseña a cocinar un exquisito y nutritivo plato de carne, el famoso roast beef."
-        },
         {
           "start": "20251116130916 +0100",
           "stop": "20251116133140 +0100",
@@ -6656,6 +6662,12 @@
           "stop": "20251117010652 +0100",
           "title": "Universo Starlite",
           "desc": "| +13 | Estilo de vida |\n\nAl escenario del Starlite se ha subido el artista colombiano Manuel Turizo, que ha puesto al público en pie a ritmo de merengue y bachata. Take That ha llenado el auditorio del Festival por dos noches consecutivas y el cantante Carlos Vives ha celebrado en Marbella 30 años de trayectoria."
+        },
+        {
+          "start": "20251117010653 +0100",
+          "stop": "20251117013548 +0100",
+          "title": "Grandes Crónicas de ¡HOLA!",
+          "desc": "| +13 | Estilo de vida |\n\nHay personajes que trascienden a la muerte misma, personajes que aunque pasen los años siguen provocando gran fascinación, personajes que marcan no solo una época sino la historia."
         }
       ]
     },
@@ -6667,12 +6679,6 @@
       "epgId": "daystar-spa",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Impactando las Naciones",
-          "desc": "| +TP | Religion |\n\nEn Impactando Naciones, la Pastora Wanda Rolón comparte mensajes de fe, esperanza y poder espiritual para transformar vidas, familias y comunidades."
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116133000 +0100",
@@ -6810,6 +6816,12 @@
           "stop": "20251117010000 +0100",
           "title": "Impactando las Naciones",
           "desc": "| +TP | Religion |\n\nEn Impactando Naciones, la Pastora Wanda Rolón comparte mensajes de fe, esperanza y poder espiritual para transformar vidas, familias y comunidades."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117013000 +0100",
+          "title": "Jentezen Franklin",
+          "desc": "| +TP | Religion |\n\nEncuentre respuestas en la Palabra de Dios y aprenda a vivir cada día con un propósito mientras Jentezen Franklin presenta la verdad clara que lo inspirará."
         }
       ]
     },
@@ -6821,12 +6833,6 @@
       "epgId": "daystar-eng",
       "group_title": "Estilo de vida",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Larry & Tiz Huch",
-          "desc": "| +TP | Religion |\n\nPastor Larry Huch instructs viewers on how to enter into a realm of blessing and revelation through the studies of the Jewish roots of the Christian faith."
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116133000 +0100",
@@ -6964,6 +6970,12 @@
           "stop": "20251117010000 +0100",
           "title": "Dr. Sam",
           "desc": "| +TP | Religion |\n\nBiblical end times study with geopolitical views and medical analogies with cardiologist, evangelist, medical missionary and author, Samuel Kojoglanian, MD."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117013000 +0100",
+          "title": "Kingdom Connection with Jentezen Franklin",
+          "desc": "| +TP | Religion |\n\nPastor Jentezen Franklin presents life-changing, sensible messages, including dramatic plays, musical acts and commanding storytelling with the Gospel."
         }
       ]
     },
@@ -6975,18 +6987,6 @@
       "epgId": "tastemade-sp",
       "group_title": "Cocina",
       "epg": [
-        {
-          "start": "20251116122601 +0100",
-          "stop": "20251116125200 +0100",
-          "title": "Estilo de vida en Los Angeles",
-          "desc": "| +7 | Cocina y comida |\n\nMarko y Alex están de vuelta en Los Ángeles para explorar su ciudad."
-        },
-        {
-          "start": "20251116125201 +0100",
-          "stop": "20251116131800 +0100",
-          "title": "Tartar de remolacha, clafoutis con pistaches y miel",
-          "desc": "| +7 | Cocina y comida |\n\nNuestro recorrido comienza en el distrito 2, en un callejón súper encantador, que es un paraíso para los amantes de la cocina. ¡Incluso hay un conjunto muy lindo de pequeñas tiendas que venden productos que vienen directamente del proveedor!"
-        },
         {
           "start": "20251116131801 +0100",
           "stop": "20251116134400 +0100",
@@ -7136,6 +7136,12 @@
           "stop": "20251117010003 +0100",
           "title": "Parrillada Para Dos",
           "desc": "| +7 | Cocina y comida |\n\nCarlos recibe a su esposa para juntos cocinar, preparan tacos de chorizo, tejunio y hasta elotes callejeros."
+        },
+        {
+          "start": "20251117010004 +0100",
+          "stop": "20251117012603 +0100",
+          "title": "Los Ángeles",
+          "desc": "| +7 | Cocina y comida |\n\n¡Bienvenidos a Burger Tour! Hoy vamos a recorrer Los Ángeles para descubrir la mejor hamburguesa"
         }
       ]
     },
@@ -7147,12 +7153,6 @@
       "epgId": "gusto-tv-new",
       "group_title": "Cocina",
       "epg": [
-        {
-          "start": "20251116120006 +0100",
-          "stop": "20251116130001 +0100",
-          "title": "BLITZ!",
-          "desc": "| +7 | Cocina y comida |\n\nBLITZ! is an all-new cooking show! Imagine being next to Vanessa Gianfrancesco as they cook their fav dishes!"
-        },
         {
           "start": "20251116130007 +0100",
           "stop": "20251116140000 +0100",
@@ -7224,6 +7224,12 @@
           "stop": "20251117010000 +0100",
           "title": "Blitz!",
           "desc": "| +7 | Cocina y comida |\n\nBLITZ! is an all-new cooking show! Imagine being next Erica Karbelnik as they cook their fav dishes!"
+        },
+        {
+          "start": "20251117010006 +0100",
+          "stop": "20251117020001 +0100",
+          "title": "Blitz!",
+          "desc": "| +7 | Cocina y comida |\n\nBLITZ! is an all-new cooking show! Imagine being next Josh Karbelnik as they cook their fav dishes!"
         }
       ]
     },
@@ -7235,12 +7241,6 @@
       "epgId": "a-bocados",
       "group_title": "Cocina",
       "epg": [
-        {
-          "start": "20251116121216 +0100",
-          "stop": "20251116125932 +0100",
-          "title": "A Bocados",
-          "desc": "| +12 | Cocina y comida |\n\nReceta: caldereta marinera. David Otero, pescador de Bermeo, habla sobre el congrio y sobre la vida de los pescadores (acompañado por su mujer Ainhoa y sus hijos). Seccion ¿truco o reto?: cantidades de azucar en naranjas y en refrescos. Receta express \"en un pis pas\": sopa de pera."
-        },
         {
           "start": "20251116125933 +0100",
           "stop": "20251116135804 +0100",
@@ -7318,6 +7318,12 @@
           "stop": "20251117004420 +0100",
           "title": "A Bocados",
           "desc": "| +12 | Cocina y comida |\n\nReceta: alitas de pollo con lactonesa de wasabi y salsa de yogur con mezclum. Cultivo de wasabi. Iban Zabalza, viveros ecologicos Blasenea (Zarautz). Seccion truco o reto: que alimentos aportan mas calorias a la dieta d elos niños entre 9 y 12 años. En un pis- pas, receta express: sazonador o condimentador shitake. Setas shitake. Txema Perez de Arriba, 'Delika2'."
+        },
+        {
+          "start": "20251117004421 +0100",
+          "stop": "20251117014140 +0100",
+          "title": "A Bocados",
+          "desc": "| +12 | Cocina y comida |\n\nReceta: champiñones gratinados con pato y queso fresco. Queso fresco de vaca \"Errotik\" producido por Kepa Agirregoikoa en Etxano. Seccion truco o reto: identificar por el tacto y a ciegas varios alimentos. Seccion receta express \"en un pis pas\": crema frita. Josetxu Arrese, de la pasteleria \"Arrese\" de Bilbao , y Alberto Laraudogoitia, jefe de obrador, presenta la tostada tipica de carnaval."
         }
       ]
     },
@@ -7329,12 +7335,6 @@
       "epgId": "metal-rocks",
       "group_title": "Música",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Metal.Rocks",
-          "desc": "| +12 | Música |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -7404,6 +7404,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "Metal.Rocks",
+          "desc": "| +12 | Música |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "Metal.Rocks",
           "desc": "| +12 | Música |\n\n"
         }
@@ -7418,12 +7424,6 @@
       "group_title": "Música",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Qwest TV",
-          "desc": "| +TP | Música |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "Qwest TV",
@@ -7492,6 +7492,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "Qwest TV",
+          "desc": "| +TP | Música |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "Qwest TV",
           "desc": "| +TP | Música |\n\n"
         }
@@ -7506,12 +7512,6 @@
       "group_title": "Música",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Flamenco Auditorio",
-          "desc": "| +TP | Música |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "Flamenco Auditorio",
@@ -7580,6 +7580,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "Flamenco Auditorio",
+          "desc": "| +TP | Música |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "Flamenco Auditorio",
           "desc": "| +TP | Música |\n\n"
         }
@@ -7696,12 +7702,6 @@
       "group_title": "Música",
       "epg": [
         {
-          "start": "20251116120212 +0100",
-          "stop": "20251116130211 +0100",
-          "title": "Qello Concerts by Stingray - DE",
-          "desc": "| +7 | Música |\n\nQello Concerts by Stingray - DE"
-        },
-        {
           "start": "20251116130212 +0100",
           "stop": "20251116140211 +0100",
           "title": "Qello Concerts by Stingray - DE",
@@ -7770,6 +7770,12 @@
         {
           "start": "20251117000212 +0100",
           "stop": "20251117010211 +0100",
+          "title": "Qello Concerts by Stingray - DE",
+          "desc": "| +7 | Música |\n\nQello Concerts by Stingray - DE"
+        },
+        {
+          "start": "20251117010212 +0100",
+          "stop": "20251117020211 +0100",
           "title": "Qello Concerts by Stingray - DE",
           "desc": "| +7 | Música |\n\nQello Concerts by Stingray - DE"
         }
@@ -7854,12 +7860,6 @@
       "group_title": "Música",
       "epg": [
         {
-          "start": "20251116100001 +0100",
-          "stop": "20251116131500 +0100",
-          "title": "Simon Bates: Disco Inferno!",
-          "desc": "| +TP | Música |\n\nFrom the early days when soul gained that disco beat in 1973, to the turn of the decade when Blondie & Diana Ross got in on the act! Simon Bates is your dancefloor host!"
-        },
-        {
           "start": "20251116131501 +0100",
           "stop": "20251116140000 +0100",
           "title": "70s Love Songs",
@@ -7899,12 +7899,6 @@
       "epgId": "now-80s",
       "group_title": "Música",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Best Played at 45 RPM!",
-          "desc": "| +TP | Música |\n\nBefore the CD, the perfect pop songs were spun by singers & bands on 7 inch vinyl. From 1980-1984 these were the classic UK hits that invaded the world!"
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116153500 +0100",
@@ -7998,12 +7992,6 @@
       "group_title": "Música",
       "epg": [
         {
-          "start": "20251116120001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "DSCVR Artists to Watch 2026",
-          "desc": "| +16 | Música |\n\nWelcome in the new class of music's hottest rising latin stars."
-        },
-        {
           "start": "20251116130001 +0100",
           "stop": "20251116140000 +0100",
           "title": "Lo Más Pegao",
@@ -8074,6 +8062,12 @@
           "stop": "20251117010000 +0100",
           "title": "Lo Más Pegao",
           "desc": "| +16 | Música |\n\nLos mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!"
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117020000 +0100",
+          "title": "Sonido Urbano",
+          "desc": "| +16 | Música |\n\nLo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!"
         }
       ]
     },
@@ -8085,12 +8079,6 @@
       "epgId": "vevo-pop-es",
       "group_title": "Música",
       "epg": [
-        {
-          "start": "20251116120001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "DSCVR Artists To Watch 2026",
-          "desc": "| +16 | Música |\n\nTe presentamos la selección DSCVR Artists To Watch 2026 de Vevo"
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116140000 +0100",
@@ -8162,6 +8150,12 @@
           "stop": "20251117010000 +0100",
           "title": "Made In Spain",
           "desc": "| +16 | Música |\n\n¡La mejor música hecha en España! Disfruta de las mejores voces del país de la mano de decenas de artistas nacionales. "
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117020000 +0100",
+          "title": "Éxitos de siempre",
+          "desc": "| +16 | Música |\n\nLos grandes éxitos de los 2000 y 2010 para viajar en el tiempo a través de la música!"
         }
       ]
     },
@@ -8214,6 +8208,12 @@
           "stop": "20251117005000 +0100",
           "title": "All Loved Up! Top 30",
           "desc": "| +TP | Música |\n\nPat Sharp with 30 massive love songs of the 90s - including a bucket load of million sellers and the odd surprise!"
+        },
+        {
+          "start": "20251117005001 +0100",
+          "stop": "20251117020000 +0100",
+          "title": "Mellow Moments!",
+          "desc": "| +TP | Música |\n\nKick back and relax with some mellow moments. Chilled to perfection."
         }
       ]
     },
@@ -8225,12 +8225,6 @@
       "epgId": "rantaro-ninja-boy-rakuten-tv",
       "group_title": "Infantil",
       "epg": [
-        {
-          "start": "20251116124045 +0100",
-          "stop": "20251116131015 +0100",
-          "title": "Rantaro, el Ninja Boy",
-          "desc": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El señor Hansuke está enfermo."
-        },
         {
           "start": "20251116131016 +0100",
           "stop": "20251116133947 +0100",
@@ -8374,6 +8368,12 @@
           "stop": "20251117005844 +0100",
           "title": "Rantaro, el Ninja Boy",
           "desc": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La táctica del pájaro bajo la lluvia."
+        },
+        {
+          "start": "20251117005845 +0100",
+          "stop": "20251117012816 +0100",
+          "title": "Rantaro, el Ninja Boy",
+          "desc": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: La excursión peligrosa."
         }
       ]
     },
@@ -8385,12 +8385,6 @@
       "epgId": "baby-shark-tv",
       "group_title": "Infantil",
       "epg": [
-        {
-          "start": "20251116122118 +0100",
-          "stop": "20251116131821 +0100",
-          "title": "Pinkfong Healthy Habits Songs",
-          "desc": "| +7 | Infantil |\n\nStay healthy and happy every one! Kick-start your day with Pinkfong healthy habits song."
-        },
         {
           "start": "20251116131827 +0100",
           "stop": "20251116134500 +0100",
@@ -8540,6 +8534,12 @@
           "stop": "20251117010000 +0100",
           "title": "Pinkfong Songs for Children",
           "desc": "| +7 | Infantil |\n\nLearn all about safety with Pinkfong Safety Rangers with fun and educational Safety Songs Compilation."
+        },
+        {
+          "start": "20251117010006 +0100",
+          "stop": "20251117014840 +0100",
+          "title": "Pinkfong Songs for Children",
+          "desc": "| +7 | Infantil |\n\nHave fun with Baby Shark and the Shark Family!"
         }
       ]
     },
@@ -8551,18 +8551,6 @@
       "epgId": "las-tres-mellizas",
       "group_title": "Infantil",
       "epg": [
-        {
-          "start": "20251116121310 +0100",
-          "stop": "20251116124457 +0100",
-          "title": "Las Tres Mellizas",
-          "desc": "| +7 | Infantil |\n\nLeyendo un cuento de samuráis en clase, Teresa se empeña tanto en querer saber lo que es un samurai que la Bruja Aburrida las manda al cuento de los Siete Samuráis."
-        },
-        {
-          "start": "20251116124458 +0100",
-          "stop": "20251116131651 +0100",
-          "title": "Las Tres Mellizas",
-          "desc": "| +7 | Infantil |\n\nEn esta nueva aventura por las tierras del mágico y misterioso Oriente, las Tres Mellizas ayudan a un chico que hace de ladronzuelo por las calles de Bagdad, a conquistar el corazón de la princesa Soraya. Pero las niñas y el chico han de competir con tres pretendientes más que intentan encontrar el regalo más original del mundo con el que conseguir la mano de la princesa."
-        },
         {
           "start": "20251116131652 +0100",
           "stop": "20251116134838 +0100",
@@ -8694,6 +8682,12 @@
           "stop": "20251117005550 +0100",
           "title": "Las Tres Mellizas",
           "desc": "| +7 | Infantil |\n\nLas Tres Mellizas están en el muelle de uno de los canales de Venecia, en pleno siglo XII. Esta vez también viajarán y lo harán con Marco Polo, en uno de sus viajes a China. Allí conocerán al Gran Khan y aprenderán el origen de muchas herramientas y alimentos que ahora forman parte de nuestra vida cotidiana."
+        },
+        {
+          "start": "20251117005551 +0100",
+          "stop": "20251117012737 +0100",
+          "title": "Las Tres Mellizas",
+          "desc": "| +7 | Infantil |\n\nSe acerca la Navidad: Ana, Teresa y Elena pasean por calles adornadas con motivos navideños. Ven a Papá Noel y le tiran de la barba. No se han dado cuenta de que es La Bruja Aburrida disfrazada. Y... cómo no, ella las castiga mandándolas a conocer el país donde vive Papá Noel."
         }
       ]
     },
@@ -8705,12 +8699,6 @@
       "epgId": "ducktv",
       "group_title": "Infantil",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "ducktv",
-          "desc": "| +TP | Infantil |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -8780,6 +8768,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "ducktv",
+          "desc": "| +TP | Infantil |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "ducktv",
           "desc": "| +TP | Infantil |\n\n"
         }
@@ -8794,12 +8788,6 @@
       "group_title": "Infantil",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Pocoyó",
-          "desc": "| +TP | Infantil |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "Pocoyó",
@@ -8868,6 +8856,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "Pocoyó",
+          "desc": "| +TP | Infantil |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "Pocoyó",
           "desc": "| +TP | Infantil |\n\n"
         }
@@ -8882,12 +8876,6 @@
       "group_title": "Infantil",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "La abeja Maya",
-          "desc": "| +TP | Infantil |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "La abeja Maya",
@@ -8958,6 +8946,12 @@
           "stop": "20251117005959 +0100",
           "title": "La abeja Maya",
           "desc": "| +TP | Infantil |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
+          "title": "La abeja Maya",
+          "desc": "| +TP | Infantil |\n\n"
         }
       ]
     },
@@ -8969,12 +8963,6 @@
       "epgId": "ice-pilots-es",
       "group_title": "Reality",
       "epg": [
-        {
-          "start": "20251116121925 +0100",
-          "stop": "20251116131344 +0100",
-          "title": "Pilotos del Ártico (Ice Pilots)",
-          "desc": "| +16 | Entretenimiento |\n\nJustin y Cory están varados en Croacia mientras intentan completar la entrega de dos bombarderos de agua CL-215 a Turquía."
-        },
         {
           "start": "20251116131345 +0100",
           "stop": "20251116141010 +0100",
@@ -9052,6 +9040,12 @@
           "stop": "20251117011717 +0100",
           "title": "Pilotos del Ártico (Ice Pilots)",
           "desc": "| +16 | Entretenimiento |\n\nProblemas en el motor afectan al nuevo Electra de Buffalo, ZFE, y un enfrentamiento entre Joe y Transport Canada amenaza con cerrar la aerolínea."
+        },
+        {
+          "start": "20251117011718 +0100",
+          "stop": "20251117021148 +0100",
+          "title": "Pilotos del Ártico (Ice Pilots)",
+          "desc": "| +16 | Entretenimiento |\n\nJoe se va a realizar pruebas médicas en la Clínica Mayo en Phoenix, Arizona."
         }
       ]
     },
@@ -9063,12 +9057,6 @@
       "epgId": "jade-fever-es",
       "group_title": "Reality",
       "epg": [
-        {
-          "start": "20251116124210 +0100",
-          "stop": "20251116131013 +0100",
-          "title": "La Fiebre del Jade",
-          "desc": "| +16 | Entretenimiento |\n\nLa temporada minera comienza y, mientras que el jade resulta esquivo, un accidente de camión se convierte en una bonanza para Ciudad de Jade."
-        },
         {
           "start": "20251116131014 +0100",
           "stop": "20251116133837 +0100",
@@ -9218,6 +9206,18 @@
           "stop": "20251117005104 +0100",
           "title": "La Fiebre del Jade",
           "desc": "| +16 | Entretenimiento |\n\nCuando un importante comprador de jade no queda impresionado con la lente Pozo 3, Claudia se ve obligada a tomar una decisión difícil."
+        },
+        {
+          "start": "20251117005105 +0100",
+          "stop": "20251117011851 +0100",
+          "title": "La Fiebre del Jade",
+          "desc": "| +16 | Entretenimiento |\n\nLa carrera para preparar el campamento en Wolverine se convierte en una pesadilla."
+        },
+        {
+          "start": "20251117011852 +0100",
+          "stop": "20251117014638 +0100",
+          "title": "La Fiebre del Jade",
+          "desc": "| +16 | Entretenimiento |\n\nEl brutal viaje a una nueva mina separa a la familia y lleva a Josh al límite."
         }
       ]
     },
@@ -9229,18 +9229,6 @@
       "epgId": "cops-en-espanol",
       "group_title": "Reality",
       "epg": [
-        {
-          "start": "20251116123345 +0100",
-          "stop": "20251116125754 +0100",
-          "title": "Cops en Español",
-          "desc": "| +12 | Entretenimiento |\n\nAlguien con un corazón roto maneja peligrosamente intentando escapar de la policía y de su pena."
-        },
-        {
-          "start": "20251116125801 +0100",
-          "stop": "20251116132025 +0100",
-          "title": "Cops en Español",
-          "desc": "| +12 | Entretenimiento |\n\nUn hombre con un vehículo turbo le cuenta una mentira terrible a la policía."
-        },
         {
           "start": "20251116132031 +0100",
           "stop": "20251116134410 +0100",
@@ -9414,6 +9402,18 @@
           "stop": "20251117004352 +0100",
           "title": "Cops en Español",
           "desc": "| +12 | Entretenimiento |\n\nUn ciclista casi desnudo provoca una carrera loca por toda la vecindad cuando los oficiales corren tras de él."
+        },
+        {
+          "start": "20251117004358 +0100",
+          "stop": "20251117010822 +0100",
+          "title": "Cops en Español",
+          "desc": "| +12 | Entretenimiento |\n\nLa policía desesperadamente intenta obtener la cooperación de un desnudo."
+        },
+        {
+          "start": "20251117010828 +0100",
+          "stop": "20251117013037 +0100",
+          "title": "Cops en Español",
+          "desc": "| +12 | Entretenimiento |\n\nHay muchos sentimientos encontrados cuando una mamá enfrenta a su hijo esposado."
         }
       ]
     },
@@ -9471,12 +9471,6 @@
       "epgId": "filmrise-forensic-files-spa",
       "group_title": "Crimen y Misterio",
       "epg": [
-        {
-          "start": "20251116123252 +0100",
-          "stop": "20251116130157 +0100",
-          "title": "Forensic Files",
-          "desc": "| +12 | Series |\n\nEl video de seguridad muestra que lo que parece ser un encuentro casual es en realidad un secuestro forzado."
-        },
         {
           "start": "20251116130158 +0100",
           "stop": "20251116133105 +0100",
@@ -9626,6 +9620,12 @@
           "stop": "20251117010627 +0100",
           "title": "Forensic Files",
           "desc": "| +12 | Series |\n\nLa policía emprende una persecución masiva después de que empresario de Kentucky fuera asesinado en su casa, frente a su esposa."
+        },
+        {
+          "start": "20251117010628 +0100",
+          "stop": "20251117013531 +0100",
+          "title": "Forensic Files",
+          "desc": "| +12 | Series |\n\nLos doctores no saben por qué un científico joven se ha enfermado muy gravemente."
         }
       ]
     },
@@ -9637,12 +9637,6 @@
       "epgId": "filmrise-unsolved-mysteries-es",
       "group_title": "Crimen y Misterio",
       "epg": [
-        {
-          "start": "20251116114907 +0100",
-          "stop": "20251116125337 +0100",
-          "title": "Unsolved Mysteries with Robert Stack En Espanol",
-          "desc": "| +16 | Crime |\n\nEste episodio incluye: Madre Desaparecida, Actualización: Personales, El Escape de San Quentin & Actualización, Millones de Medford Partes 1 & 2 & Actualización y Asesino de Cartón & Actualización"
-        },
         {
           "start": "20251116125338 +0100",
           "stop": "20251116135313 +0100",
@@ -9714,6 +9708,12 @@
           "stop": "20251117010326 +0100",
           "title": "Unsolved Mysteries with Robert Stack En Espanol",
           "desc": "| +16 | Crime |\n\nEste episodio incluye: Madre Motociclista & Actualización, Actualización: Robo en el Cajero, Pájara Blanco, Muerte con Estricnina y Marineros Perdidos."
+        },
+        {
+          "start": "20251117010327 +0100",
+          "stop": "20251117020526 +0100",
+          "title": "Unsolved Mysteries with Robert Stack En Espanol",
+          "desc": "| +16 | Crime |\n\nEste episodio incluye: El Oro de Victorio Partes 1 & 2, ¿Dónde Está Kari? & Actualización y Deportista Sensual."
         }
       ]
     },
@@ -9802,12 +9802,6 @@
       "group_title": "Crimen y Misterio",
       "epg": [
         {
-          "start": "20251116120427 +0100",
-          "stop": "20251116130846 +0100",
-          "title": "Historias de Ultratumba",
-          "desc": "| +16 | Crime |\n\nCiertos mitos nativos norteamericanos hablan de criaturas sobrenaturales que protegen a los muertos."
-        },
-        {
           "start": "20251116130847 +0100",
           "stop": "20251116141306 +0100",
           "title": "Historias de Ultratumba",
@@ -9872,6 +9866,12 @@
           "stop": "20251117005625 +0100",
           "title": "Historias de Ultratumba",
           "desc": "| +16 | Crime |\n\nLa infancia debería ser una etapa de descubrimiento lúdico y de regocijo inocente. ¿Pero qué sucede cuando las realidades del reino paranormal traspasan sus barreras y despiertan el mal verdadero?"
+        },
+        {
+          "start": "20251117005626 +0100",
+          "stop": "20251117020045 +0100",
+          "title": "Historias de Ultratumba",
+          "desc": "| +16 | Crime |\n\nLos investigadores paranormales buscan comprender lo sobrenatural y, con frecuencia, utilizan su conocimiento para ayudar a los demás. Pero, ¿qué ocurre con estos expertos cuando el objeto de sus estudios se vuelve contra ellos?"
         }
       ]
     },
@@ -9883,12 +9883,6 @@
       "epgId": "crimenes-reales",
       "group_title": "Crimen y Misterio",
       "epg": [
-        {
-          "start": "20251116122536 +0100",
-          "stop": "20251116131618 +0100",
-          "title": "Jeffrey Dahmer killer cannibal Ep 3",
-          "desc": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos."
-        },
         {
           "start": "20251116131619 +0100",
           "stop": "20251116141111 +0100",
@@ -9966,6 +9960,12 @@
           "stop": "20251117010509 +0100",
           "title": "See no evil : Tom y Gill Estes",
           "desc": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos."
+        },
+        {
+          "start": "20251117010510 +0100",
+          "stop": "20251117015745 +0100",
+          "title": "Vivi con un Asesino: Sammy ‘el Toro’ Gravano",
+          "desc": "| +16 | Crime |\n\n El canal 100% sucesos y casos criminales. Reconstrucciones, reportajes en inmersión, investigaciones judiciales, testimonios de víctimas y análisis de expertos: CRIMENES REALES te sumerge en el corazón de los sucesos."
         }
       ]
     },
@@ -9977,12 +9977,6 @@
       "epgId": "naturaleza",
       "group_title": "Documentales",
       "epg": [
-        {
-          "start": "20251116121814 +0100",
-          "stop": "20251116132122 +0100",
-          "title": "Mississippi",
-          "desc": "| +7 | Documental |\n\nNo hay ningún río en la tierra donde se soñaron tantos sueños, donde tantos sueños se hicieron realidad o se desmoronaron, donde la línea divisoria entre la vida y la muerte es tan delgada como en el Mississippi, el gran río de América del Norte."
-        },
         {
           "start": "20251116132123 +0100",
           "stop": "20251116135514 +0100",
@@ -10072,6 +10066,12 @@
           "stop": "20251117011308 +0100",
           "title": "Tecnología Natural",
           "desc": "| +7 | Documental |\n\nLa naturaleza inventó toda una gama de materiales de alta tecnología mucho antes de que inventáramos la cerámica y los plásticos. Vea cómo una mariposa puede cambiar los lápices labiales, y posiblemente la tecnología de la información y cómo una secoya puede ayudar a desarrollar un mejor chaleco antibalas."
+        },
+        {
+          "start": "20251117011309 +0100",
+          "stop": "20251117021447 +0100",
+          "title": "Hundidos",
+          "desc": "| +7 | Documental |\n\nEl equipo de Karlos Simon bucea en las costas cercanas a Villajoyosa (Alicante) para encontrar los restos del participation, hundido el 4 de febrero de 1918."
         }
       ]
     },
@@ -10083,12 +10083,6 @@
       "epgId": "weather-spy-new",
       "group_title": "Documentales",
       "epg": [
-        {
-          "start": "20251116122617 +0100",
-          "stop": "20251116125611 +0100",
-          "title": "Humans VS Weather",
-          "desc": "| +TP | Estilo de vida |\n\nWho will win in a match of Sliding Jeep down a hill and Tornado Joins a Soccer Game?"
-        },
         {
           "start": "20251116125617 +0100",
           "stop": "20251116132611 +0100",
@@ -10232,6 +10226,12 @@
           "stop": "20251117005611 +0100",
           "title": "Sinister Storms",
           "desc": "| +TP | Estilo de vida |\n\nSurging waters, brewing storms, icy landscapes, and cosmic phenomena bring the chaos."
+        },
+        {
+          "start": "20251117005617 +0100",
+          "stop": "20251117012611 +0100",
+          "title": "Sinister Storms",
+          "desc": "| +TP | Estilo de vida |\n\nHurricanes, firestorms, dust devils, and shifting grounds sweep through the land, leaving destruction."
         }
       ]
     },
@@ -10338,6 +10338,12 @@
           "stop": "20251117005909 +0100",
           "title": "Apex Predators",
           "desc": "| +TP | Documental |\n\nAfrica’s top predators have evolved formidable means of surviving and thriving."
+        },
+        {
+          "start": "20251117005910 +0100",
+          "stop": "20251117012629 +0100",
+          "title": "Birds Of Prey",
+          "desc": "| +TP | Documental |\n\nHunt alongside aerial predators to view the world from their sharp eyes."
         }
       ]
     },
@@ -10349,12 +10355,6 @@
       "epgId": "cgtn-documentary",
       "group_title": "Documentales",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Youthful China",
-          "desc": "| +7 | Asian |\n\nThe youth of a country is the future of that country. A series of documentaries focusing on the younger generation of China in which you get to see what they are achieving and what makes them tick!"
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116140000 +0100",
@@ -10450,6 +10450,12 @@
           "stop": "20251117010000 +0100",
           "title": "Today’s Top Pick",
           "desc": "| +7 | Asian |\n\nDocumentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117020000 +0100",
+          "title": "Today’s Top Pick",
+          "desc": "| +7 | Asian |\n\nDocumentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers."
         }
       ]
     },
@@ -10461,12 +10467,6 @@
       "epgId": "oficios-perdidos",
       "group_title": "Documentales",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Oficios Perdidos",
-          "desc": "| +TP | Documental |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -10538,6 +10538,12 @@
           "stop": "20251117005959 +0100",
           "title": "Oficios Perdidos",
           "desc": "| +TP | Documental |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
+          "title": "Oficios Perdidos",
+          "desc": "| +TP | Documental |\n\n"
         }
       ]
     },
@@ -10549,12 +10555,6 @@
       "epgId": "historia-y-vida",
       "group_title": "Documentales",
       "epg": [
-        {
-          "start": "20251116121201 +0100",
-          "stop": "20251116131400 +0100",
-          "title": "Nazis contra Masones: El Expolio de las Logias",
-          "desc": "| +TP | Documental |\n\n¿Por qué los nazis robaron los archivos de los masones franceses? Un drama geopolítico con toques esotéricos."
-        },
         {
           "start": "20251116131401 +0100",
           "stop": "20251116140300 +0100",
@@ -10626,6 +10626,12 @@
           "stop": "20251117012300 +0100",
           "title": "Construcciones Extremas - La Catedral de los Récords",
           "desc": "| +TP | Documental |\n\nCatedral de Estrasburgo: una obra maestra medieval construida con nuevas tecnologías del momento."
+        },
+        {
+          "start": "20251117012301 +0100",
+          "stop": "20251117022600 +0100",
+          "title": "Construcciones Extremas - Meraviglia, el Gigante de los Mares",
+          "desc": "| +TP | Documental |\n\nConoce la construcción en St. Nazaire del Meraviglia, el crucero por excelencia. 315m de eslora y 65 de altura"
         }
       ]
     },
@@ -10637,12 +10643,6 @@
       "epgId": "euronews-live-spa",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116123000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Euronews EN DIRECTO",
-          "desc": "| +12 | Noticias |\n\nEl canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV."
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116132959 +0100",
@@ -10786,6 +10786,12 @@
           "stop": "20251117005959 +0100",
           "title": "Euronews EN DIRECTO",
           "desc": "| +12 | Noticias |\n\nEl canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV."
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117012959 +0100",
+          "title": "Euronews EN DIRECTO",
+          "desc": "| +12 | Noticias |\n\nEl canal Europeo líder en noticias internacionales. Noticias en directo las 24 horas del día, gratis, de la mano de Rakuten TV."
         }
       ]
     },
@@ -10797,12 +10803,6 @@
       "epgId": "actualidad-360",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Claves del día",
-          "desc": "| +TP | Noticias |\n\nLas claves informativas para entender la actualidad del día."
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116133000 +0100",
@@ -10946,6 +10946,12 @@
           "stop": "20251117010000 +0100",
           "title": "Claves del día",
           "desc": "| +TP | Noticias |\n\nLas claves informativas para entender la actualidad del día."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117013000 +0100",
+          "title": "Noticias en 30 minutos",
+          "desc": "| +TP | Noticias |\n\nLa última hora de todo lo que sucede en España y el mundo."
         }
       ]
     },
@@ -10957,12 +10963,6 @@
       "epgId": "the-reuters-60",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "The Reuters 60",
-          "desc": "| +12 | Noticias |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -11034,6 +11034,12 @@
           "stop": "20251117005959 +0100",
           "title": "The Reuters 60",
           "desc": "| +12 | Noticias |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
+          "title": "The Reuters 60",
+          "desc": "| +12 | Noticias |\n\n"
         }
       ]
     },
@@ -11045,12 +11051,6 @@
       "epgId": "revry-news",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116110006 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Raid Of The Rainbow Lounge",
-          "desc": "| +TP | LGBTQ+ |\n\nA riveting recount of a violent 2009 raid of a Texas gay bar and its aftermath."
-        },
         {
           "start": "20251116130006 +0100",
           "stop": "20251116143000 +0100",
@@ -11122,6 +11122,12 @@
           "stop": "20251117005500 +0100",
           "title": "Scream, Queen! My Nightmare on Elm Street",
           "desc": "| +TP | LGBTQ+ |\n\nA retrospective look at A Nightmare on Elm Street 2: Freddy's Revenge (1985)."
+        },
+        {
+          "start": "20251117005506 +0100",
+          "stop": "20251117030000 +0100",
+          "title": "World Pride Ball",
+          "desc": "| +TP | LGBTQ+ |\n\nThe World Pride Ball is a fierce voguing competition showcasing athleticism and artistry!"
         }
       ]
     },
@@ -11133,12 +11139,6 @@
       "epgId": "bloomberg-originals-new",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116110006 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Bloomberg Originals",
-          "desc": "| +12 | Documental |\n\nBloomberg Originals"
-        },
         {
           "start": "20251116130006 +0100",
           "stop": "20251116150000 +0100",
@@ -11174,6 +11174,12 @@
           "stop": "20251117010000 +0100",
           "title": "Bloomberg Originals",
           "desc": "| +12 | Documental |\n\nBloomberg Originals"
+        },
+        {
+          "start": "20251117010006 +0100",
+          "stop": "20251117030000 +0100",
+          "title": "Bloomberg Originals",
+          "desc": "| +12 | Documental |\n\nBloomberg Originals"
         }
       ]
     },
@@ -11185,12 +11191,6 @@
       "epgId": "bloomberg-tv-plus",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116120005 +0100",
-          "stop": "20251116125958 +0100",
-          "title": "Bloomberg TV+",
-          "desc": "| +12 | Documental |\n\nBloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience."
-        },
         {
           "start": "20251116130005 +0100",
           "stop": "20251116135958 +0100",
@@ -11262,6 +11262,12 @@
           "stop": "20251117005958 +0100",
           "title": "Bloomberg TV+",
           "desc": "| +12 | Documental |\n\nBloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience."
+        },
+        {
+          "start": "20251117010006 +0100",
+          "stop": "20251117015959 +0100",
+          "title": "Bloomberg TV+",
+          "desc": "| +12 | Documental |\n\nBloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience."
         }
       ]
     },
@@ -11273,18 +11279,6 @@
       "epgId": "cgtn-es",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116124500 +0100",
-          "title": "SABOREANDO CHINA",
-          "desc": "| +7 | Asian |\n\nAprenda a preparar las recetas más populares de China. Nuestro chef le revelará de forma práctica los secretos del arte culinario de esta nación asiática. Conozca los ingredientes más utilizados en la variada cocina regional, los orígenes de los platos e incluso sus beneficios para la salud. En De China a tu cocina, el espectador podrá experimentar a la vez la riqueza tradicional y la variedad gastronómica de China."
-        },
-        {
-          "start": "20251116124501 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "NIHAO CHINA",
-          "desc": "| +7 | Asian |\n\nEs la clase de chino de CGTN-Español. Las series “Aprendamos juntos pinyin”, “Comunícate en chino” y “Viajando y aprendiendo chino”, abordan diferentes niveles de aprendizaje de la nueva lengua de moda en el mundo, brindando así a los televidentes la posibilidad de ampliar su vocabulario, mejorar su gramática y dominar las frases y expresiones más usuales del idioma con más hablantes en el planeta."
-        },
         {
           "start": "20251116130001 +0100",
           "stop": "20251116133000 +0100",
@@ -11428,6 +11422,18 @@
           "stop": "20251117004500 +0100",
           "title": "SABOREANDO CHINA",
           "desc": "| +7 | Asian |\n\nAprenda a preparar las recetas más populares de China. Nuestro chef le revelará de forma práctica los secretos del arte culinario de esta nación asiática. Conozca los ingredientes más utilizados en la variada cocina regional, los orígenes de los platos e incluso sus beneficios para la salud. En De China a tu cocina, el espectador podrá experimentar a la vez la riqueza tradicional y la variedad gastronómica de China."
+        },
+        {
+          "start": "20251117004501 +0100",
+          "stop": "20251117010000 +0100",
+          "title": "NIHAO CHINA",
+          "desc": "| +7 | Asian |\n\nEs la clase de chino de CGTN-Español. Las series “Aprendamos juntos pinyin”, “Comunícate en chino” y “Viajando y aprendiendo chino”, abordan diferentes niveles de aprendizaje de la nueva lengua de moda en el mundo, brindando así a los televidentes la posibilidad de ampliar su vocabulario, mejorar su gramática y dominar las frases y expresiones más usuales del idioma con más hablantes en el planeta."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117013000 +0100",
+          "title": "DOCUMENTAL",
+          "desc": "| +7 | Asian |\n\nPresentapersonajes y acontecimientos típicos, avances y descubrimientos tecnológicos y científicos,  y la civilización social de China."
         }
       ]
     },
@@ -11439,12 +11445,6 @@
       "epgId": "africanews-eng",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116123000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "Africanews",
-          "desc": "| +12 | Noticias |\n\nAfricanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms."
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116132959 +0100",
@@ -11588,6 +11588,12 @@
           "stop": "20251117005959 +0100",
           "title": "Africanews",
           "desc": "| +12 | Noticias |\n\nAfricanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms."
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117012959 +0100",
+          "title": "Africanews",
+          "desc": "| +12 | Noticias |\n\nAfricanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms."
         }
       ]
     },
@@ -11599,12 +11605,6 @@
       "epgId": "cgtn",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116124500 +0100",
-          "title": "The World Today",
-          "desc": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen."
-        },
         {
           "start": "20251116124501 +0100",
           "stop": "20251116133000 +0100",
@@ -11724,6 +11724,12 @@
           "stop": "20251117010000 +0100",
           "title": "Full Frame",
           "desc": "| +7 | Asian |\n\nFull Frame enriches the lives of viewers through animated discussion of film, arts and culture, and social trends etc impacting a diverse global audience."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117013000 +0100",
+          "title": "The World Today",
+          "desc": "| +7 | Asian |\n\nThe World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen."
         }
       ]
     },
@@ -11735,12 +11741,6 @@
       "epgId": "newsworld-spa",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "NewsWorld",
-          "desc": "| +TP | Noticias |\n\n"
-        },
         {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
@@ -11810,6 +11810,12 @@
         {
           "start": "20251117000000 +0100",
           "stop": "20251117005959 +0100",
+          "title": "NewsWorld",
+          "desc": "| +TP | Noticias |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
           "title": "NewsWorld",
           "desc": "| +TP | Noticias |\n\n"
         }
@@ -11824,12 +11830,6 @@
       "group_title": "Noticias",
       "epg": [
         {
-          "start": "20251116120000 +0100",
-          "stop": "20251116125959 +0100",
-          "title": "El País",
-          "desc": "| +TP | Noticias |\n\n"
-        },
-        {
           "start": "20251116130000 +0100",
           "stop": "20251116135959 +0100",
           "title": "El País",
@@ -11900,6 +11900,12 @@
           "stop": "20251117005959 +0100",
           "title": "El País",
           "desc": "| +TP | Noticias |\n\n"
+        },
+        {
+          "start": "20251117010000 +0100",
+          "stop": "20251117015959 +0100",
+          "title": "El País",
+          "desc": "| +TP | Noticias |\n\n"
         }
       ]
     },
@@ -11911,30 +11917,6 @@
       "epgId": "france-24-en",
       "group_title": "Noticias",
       "epg": [
-        {
-          "start": "20251116123001 +0100",
-          "stop": "20251116124500 +0100",
-          "title": "News",
-          "desc": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom."
-        },
-        {
-          "start": "20251116124501 +0100",
-          "stop": "20251116125000 +0100",
-          "title": "Focus",
-          "desc": "| +7 | Noticias |\n\nExclusive reports from France 24 correspondents around the world."
-        },
-        {
-          "start": "20251116125001 +0100",
-          "stop": "20251116130000 +0100",
-          "title": "Sports",
-          "desc": "| +7 | Noticias |\n\nA summary of world sports news of the day, both on and off the pitch."
-        },
-        {
-          "start": "20251116130001 +0100",
-          "stop": "20251116131500 +0100",
-          "title": "News",
-          "desc": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom."
-        },
         {
           "start": "20251116131501 +0100",
           "stop": "20251116133000 +0100",
@@ -12240,6 +12222,24 @@
           "stop": "20251117004500 +0100",
           "title": "News",
           "desc": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom."
+        },
+        {
+          "start": "20251117004501 +0100",
+          "stop": "20251117010000 +0100",
+          "title": "People And Profit",
+          "desc": "| +7 | Noticias |\n\nGoing beyond the corporate jargon to break down major business stories to see how they affect our lives."
+        },
+        {
+          "start": "20251117010001 +0100",
+          "stop": "20251117011500 +0100",
+          "title": "News",
+          "desc": "| +7 | Noticias |\n\nAn international news bulletin, presented live from the newsroom."
+        },
+        {
+          "start": "20251117011501 +0100",
+          "stop": "20251117020000 +0100",
+          "title": "Reporters",
+          "desc": "| +7 | Noticias |\n\nInternational in-depth reports from the France 24 teams and senior reporters around the world."
         }
       ]
     }
