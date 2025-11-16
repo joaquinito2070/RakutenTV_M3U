@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="RakutenGenerator">
+  <channel id="top-movies-rakuten-tv">
+    <display-name>Pelis Top</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg"/>
+  </channel>
+  <channel id="action-rakuten-tv">
+    <display-name>Acción</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg"/>
+  </channel>
+  <channel id="comedy-rakuten-tv">
+    <display-name>Comedia</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg"/>
+  </channel>
+  <channel id="drama-rakuten-tv">
+    <display-name>Drama</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg"/>
+  </channel>
+  <channel id="romance-rakuten-tv">
+    <display-name>Películas Románticas</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg"/>
+  </channel>
+  <channel id="spanish-cinema-rakuten-tv">
+    <display-name>Cine Español</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg"/>
+  </channel>
+  <channel id="sci-fi-rakuten-tv">
+    <display-name>Sci-Fi</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg"/>
+  </channel>
+  <channel id="thriller-rakuten-tv">
+    <display-name>Thrillers</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg"/>
+  </channel>
+  <channel id="family-rakuten-tv">
+    <display-name>100% Navidad</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fe76f469-0869-4bd8-a5de-a471d9740965.png"/>
+  </channel>
+  <channel id="mytime-movie-network-spanish">
+    <display-name>MyTime Movie Network</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg"/>
+  </channel>
+  <channel id="cine-friki">
+    <display-name>Cine Friki</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg"/>
+  </channel>
+  <channel id="dark-matter-es-new">
+    <display-name>Dark Matter</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/cd1e98b4-2d26-486d-a615-bd556debbf20.jpeg"/>
+  </channel>
+  <channel id="verdi-tv">
+    <display-name>Verdi TV</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d5f81eaf-cdac-4537-b5db-5d927af79833.jpeg"/>
+  </channel>
+  <channel id="feel-good-tv">
+    <display-name>Feel Good TV</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/c7ff802e-6aa3-4231-8aaf-c8c64b511013.jpeg"/>
+  </channel>
+  <channel id="grjngo-es">
+    <display-name>Grjngo</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg"/>
+  </channel>
+  <channel id="cine-western-es">
+    <display-name>Cine Western</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg"/>
+  </channel>
+  <channel id="crime-rakuten-tv">
+    <display-name>Crimen</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg"/>
+  </channel>
+  <channel id="aguila-roja-rakuten-tv">
+    <display-name>Águila Roja</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0f724508-ed27-486a-849c-b3c6e9a05e00.jpeg"/>
+  </channel>
+  <channel id="filmrise-sci-fi-es">
+    <display-name>FilmRise Sci-Fi</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/daba160d-25f2-4f06-9572-fc2a71dcf277-filmrise-sci-fi-1631546650.jpeg"/>
+  </channel>
+  <channel id="stormcast-novelas-spa">
+    <display-name>Stormcast Novelas</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/15ffb483-6ae2-46f1-9d08-a6e3a8445ee9.jpeg"/>
+  </channel>
+  <channel id="bbc-drama-es">
+    <display-name>BBC Drama</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b7955dd9-07e0-48b2-baf8-bbbee37cd2eb-bbc-drama-1639673931.jpeg"/>
+  </channel>
+  <channel id="beyblade-es">
+    <display-name>Beyblade</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/dac38e6b-007a-4c8f-88e2-198b4cef2035.jpeg"/>
+  </channel>
+  <channel id="rakuten-viki-es">
+    <display-name>Rakuten VIKI</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg"/>
+  </channel>
+  <channel id="vive-kanal-d-drama">
+    <display-name>Vive Kanal D Drama</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf0c7e3e-b46f-4f81-8d31-f096fba8d761.png"/>
+  </channel>
+  <channel id="todo-novelas">
+    <display-name>Todo Novelas</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg"/>
+  </channel>
+  <channel id="bbc-top-gear-spa">
+    <display-name>Top Gear en español</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/36527b18-2a5c-4977-8c04-60dd6e57db24-top-gear-en-espanol-1651835741.jpeg"/>
+  </channel>
+  <channel id="yu-gi-oh-new-spa">
+    <display-name>Yu-Gi-Oh!</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f23b1f1a-4854-441c-8522-9bf991f0bf21.jpeg"/>
+  </channel>
+  <channel id="mr-bean-es">
+    <display-name>Mr. Bean</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7ff74f0d-63d9-44f5-99e3-d11bdbf81197.jpeg"/>
+  </channel>
+  <channel id="mr-bean-live-action">
+    <display-name>Mr. Bean - Live Action</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg"/>
+  </channel>
+  <channel id="platos-sucios">
+    <display-name>Platos Sucios</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b5432e55-ba85-4c9a-bb4b-3ab9164df9a3.jpeg"/>
+  </channel>
+  <channel id="vaya-semanita">
+    <display-name>Vaya semanita</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3fbef4db-f211-4cc3-90d2-084976a485bf.jpeg"/>
+  </channel>
+  <channel id="merli">
+    <display-name>Merlí</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea5a2b5e-dae7-46fe-80b3-31928901ea97.jpeg"/>
+  </channel>
+  <channel id="rookie-blue-spa">
+    <display-name>Rookie Blue</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4fd593d9-67b8-46a6-ad8a-b89a33bc4572.jpeg"/>
+  </channel>
+  <channel id="wedotv-amor">
+    <display-name>wedotv Amor</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f2eabb04-9a91-4acb-97ff-8eab64c09446.jpeg"/>
+  </channel>
+  <channel id="animevision">
+    <display-name>AnimeVisión</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3ad26428-c55b-4645-8202-c349ccbb52cc.jpeg"/>
+  </channel>
+  <channel id="animevision-classics">
+    <display-name>AnimeVisión Classics</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/56e7f02c-0dbf-49cf-b8a2-c6b7e2d02c35.jpeg"/>
+  </channel>
+  <channel id="the-pet-collective-new">
+    <display-name>The Pet Collective</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b471d6b6-5694-46b3-8a33-6dbb0f76cf53.jpeg"/>
+  </channel>
+  <channel id="people-are-awesome-new">
+    <display-name>People Are Awesome</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f.jpeg"/>
+  </channel>
+  <channel id="revry">
+    <display-name>Revry</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/51021714-5a06-4be2-b0ff-6f5de75e742e.png"/>
+  </channel>
+  <channel id="jukin-fail-army-new">
+    <display-name>Fail Army</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg"/>
+  </channel>
+  <channel id="top-barca-es">
+    <display-name>TOP Barça</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg"/>
+  </channel>
+  <channel id="fifa-plus-es-new">
+    <display-name>FIFA+</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png"/>
+  </channel>
+  <channel id="mypadel-tv">
+    <display-name>MyPadel TV</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1de5d983-6666-4d47-8f02-b7a898f2ebc3.png"/>
+  </channel>
+  <channel id="laliga-inside">
+    <display-name>LaLiga Inside</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg"/>
+  </channel>
+  <channel id="inter-24-7-eng">
+    <display-name>INTER 24/7</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3519342e-d891-46ef-923e-27b698550a13.jpeg"/>
+  </channel>
+  <channel id="fuel-tv-new">
+    <display-name>FUEL TV</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg"/>
+  </channel>
+  <channel id="billiards-tv">
+    <display-name>World Billiards TV</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png"/>
+  </channel>
+  <channel id="hard-knocks-fighting-championship">
+    <display-name>Hard Knocks Fighting Championship</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg"/>
+  </channel>
+  <channel id="glory-kickboxing">
+    <display-name>GLORY Kickboxing</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg"/>
+  </channel>
+  <channel id="surf-channel">
+    <display-name>Surf Channel</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg"/>
+  </channel>
+  <channel id="pfl-mma">
+    <display-name>PFL MMA</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg"/>
+  </channel>
+  <channel id="motorsport-tv-en">
+    <display-name>Motorsport.tv</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/d1e02c44-7aa4-443e-aa8d-e5bd1389b9a3.jpeg"/>
+  </channel>
+  <channel id="racer-international">
+    <display-name>RACER International</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e99fd425-48f6-4ced-b550-a9faca315a4d.jpeg"/>
+  </channel>
+  <channel id="red-bull-tv-es">
+    <display-name>Red Bull TV</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg"/>
+  </channel>
+  <channel id="motorvision-tv-spanish">
+    <display-name>MOTORVISION.TV</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1c0727dc-17ab-4c8b-b6d9-3b300fb3f458.png"/>
+  </channel>
+  <channel id="tennis-plus">
+    <display-name>Tennis+</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg"/>
+  </channel>
+  <channel id="lifestyle-rakuten-tv">
+    <display-name>Estilo y Vida</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/84e0b7b3-1612-470a-afdc-67a8c5b0fbbe.jpeg"/>
+  </channel>
+  <channel id="gipsy-kings-rakuten-tv">
+    <display-name>Los Gipsy Kings</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cc63b2b-870e-46fd-889b-ae81f798c9d7.jpeg"/>
+  </channel>
+  <channel id="fashion-tv">
+    <display-name>Fashion TV</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg"/>
+  </channel>
+  <channel id="the-design-network-new">
+    <display-name>The Design Network</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0d7ac09c-6941-41cd-9351-ff6f73a81ed6.jpeg"/>
+  </channel>
+  <channel id="1-1-travel">
+    <display-name>1+1 Travel</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7a3e2bbb-6f32-4800-84e6-5f880f67103d.png"/>
+  </channel>
+  <channel id="travelxp-es">
+    <display-name>Travelxp</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg"/>
+  </channel>
+  <channel id="vivir-con-gatos">
+    <display-name>Vivir con gatos</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg"/>
+  </channel>
+  <channel id="vivir-con-perros">
+    <display-name>Vivir con perros</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg"/>
+  </channel>
+  <channel id="stingray-naturescape">
+    <display-name>Stingray Naturescape</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24.jpeg"/>
+  </channel>
+  <channel id="5-minutes-craft-es">
+    <display-name>Ideas en 5 minutos</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b5fc34b2-b51a-4418-a52d-bd479fd3d6e1.jpeg"/>
+  </channel>
+  <channel id="hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1">
+    <display-name>¡HOLA! Play</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b7fa7e1a-c47f-4d90-98e7-7c64c77dbbdb.png"/>
+  </channel>
+  <channel id="daystar-spa">
+    <display-name>Daystar Español</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/129d0817-c05d-447f-85ba-acac21db4307.jpeg"/>
+  </channel>
+  <channel id="daystar-eng">
+    <display-name>Daystar TV</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/efe4aad6-6114-4535-adab-44ac9d552fcc.jpeg"/>
+  </channel>
+  <channel id="tastemade-sp">
+    <display-name>Tastemade</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/be766dfd-b8cd-4ab5-b3c3-8ac719b81e9c-tastemade-1640938879.jpeg"/>
+  </channel>
+  <channel id="gusto-tv-new">
+    <display-name>Gusto TV</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg"/>
+  </channel>
+  <channel id="a-bocados">
+    <display-name>A bocados</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg"/>
+  </channel>
+  <channel id="metal-rocks">
+    <display-name>Metal.Rocks</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg"/>
+  </channel>
+  <channel id="qwest-tv">
+    <display-name>Qwest TV</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg"/>
+  </channel>
+  <channel id="flamenco-auditorio">
+    <display-name>Flamenco Auditorio</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/02365da1-268e-42e2-8fe2-5d6486ac5ddc.jpeg"/>
+  </channel>
+  <channel id="stingray-greatest-hits">
+    <display-name>Stingray Greatest Holiday Hits</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f53795a0-d894-4f40-88cf-334dd070f02e.jpeg"/>
+  </channel>
+  <channel id="stingray-hit-list">
+    <display-name>Stingray: Hitlist</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg"/>
+  </channel>
+  <channel id="stingray-remember-the-80-s">
+    <display-name>Stingray: Remember the 80’s</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg"/>
+  </channel>
+  <channel id="qello-concerts-by-stingray">
+    <display-name>Qello Concerts by Stingray</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg"/>
+  </channel>
+  <channel id="deluxe-lounge-hd">
+    <display-name>Deluxe Lounge HD</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg"/>
+  </channel>
+  <channel id="now-70s">
+    <display-name>NOW 70s</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e60f4df9-a0e1-4d45-9b3c-ee619812b2bc.jpeg"/>
+  </channel>
+  <channel id="now-80s">
+    <display-name>NOW 80s</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg"/>
+  </channel>
+  <channel id="now-rock">
+    <display-name>NOW Rock</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e92f17dc-61c7-4249-9d1c-8013899220af.jpeg"/>
+  </channel>
+  <channel id="vevo-latino-es">
+    <display-name>Vevo Latino</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/acffba3b-1779-48a8-bf69-de8f2cdf69c2.jpeg"/>
+  </channel>
+  <channel id="vevo-pop-es">
+    <display-name>Vevo Pop</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f796c006-b189-4b90-b8ff-6a42cf6d4bd7.jpeg"/>
+  </channel>
+  <channel id="now-90s00s">
+    <display-name>NOW 90s00s</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/798cc3b5-1f31-4bee-97d2-39a6555d7b07.jpeg"/>
+  </channel>
+  <channel id="rantaro-ninja-boy-rakuten-tv">
+    <display-name>Rantaró, el ninja boy</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c03fa5a5-dd8d-4e53-ba59-352993c4e6fb.jpeg"/>
+  </channel>
+  <channel id="baby-shark-tv">
+    <display-name>Baby Shark TV</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a037e33c-a084-4a63-b433-b227d0bc2c59.jpeg"/>
+  </channel>
+  <channel id="las-tres-mellizas">
+    <display-name>Las tres mellizas</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5fca5e18-a011-44e0-a411-608be7e29a84.jpeg"/>
+  </channel>
+  <channel id="ducktv">
+    <display-name>ducktv</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/46c614e1-cc27-4d06-96ab-5477041a1d62.jpeg"/>
+  </channel>
+  <channel id="pocoyo">
+    <display-name>Pocoyó</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b427e296-f7e7-488a-b8ac-f9822584acff.jpeg"/>
+  </channel>
+  <channel id="planeta-junior-spa">
+    <display-name>La abeja Maya</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/66532545-7c48-4163-8602-4c17c8bb12ac.jpeg"/>
+  </channel>
+  <channel id="ice-pilots-es">
+    <display-name>Pilotos del Ártico</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/47db66d1-8f73-451e-9244-34ce4b1c423c.jpeg"/>
+  </channel>
+  <channel id="jade-fever-es">
+    <display-name>La fiebre del jade</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4223433c-d101-452c-aced-2453b33d3126.jpeg"/>
+  </channel>
+  <channel id="cops-en-espanol">
+    <display-name>Cops En Español</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ba80c0fa-a357-4a50-927b-12e34ad75737.jpeg"/>
+  </channel>
+  <channel id="el-conquistador">
+    <display-name>El Conquistador</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/3779a116-fc8f-4720-8656-1a8eef566691.jpeg"/>
+  </channel>
+  <channel id="filmrise-forensic-files-spa">
+    <display-name>Archivos Forenses</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/33d033a2-326e-4f5b-b3dc-e8c8bf65e562-archivos-forenses-1642607532.jpeg"/>
+  </channel>
+  <channel id="filmrise-unsolved-mysteries-es">
+    <display-name>Misterios sin resolver</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2fc7195d-be0a-4c4c-bb7c-6b57202535b7.jpeg"/>
+  </channel>
+  <channel id="todo-crimen">
+    <display-name>Todo Crimen</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg"/>
+  </channel>
+  <channel id="a-haunting-spa">
+    <display-name>Historias de ultratumba</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e70ee1d0-6aee-4c0b-97b3-f797acf6d6be.jpeg"/>
+  </channel>
+  <channel id="crimenes-reales">
+    <display-name>Crímenes Reales</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ff4a2f43-f916-4e28-b349-632744ad68f2.jpeg"/>
+  </channel>
+  <channel id="naturaleza">
+    <display-name>Naturaleza</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7f26f4ea-f964-4d23-a365-dbbd55108e26.jpeg"/>
+  </channel>
+  <channel id="weather-spy-new">
+    <display-name>Weather Spy</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg"/>
+  </channel>
+  <channel id="nature-time-es">
+    <display-name>Nature Time</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg"/>
+  </channel>
+  <channel id="cgtn-documentary">
+    <display-name>CGTN Documentary</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg"/>
+  </channel>
+  <channel id="oficios-perdidos">
+    <display-name>Oficios Perdidos</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9464f310-33c3-4e0f-b258-eeaf24d3fa51.png"/>
+  </channel>
+  <channel id="historia-y-vida">
+    <display-name>Historia y Vida</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/112ebdc0-159a-422f-9659-e9e6aa967df7.jpeg"/>
+  </channel>
+  <channel id="euronews-live-spa">
+    <display-name>Euronews EN DIRECTO</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg"/>
+  </channel>
+  <channel id="actualidad-360">
+    <display-name>Actualidad 360</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg"/>
+  </channel>
+  <channel id="the-reuters-60">
+    <display-name>The Reuters 60</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg"/>
+  </channel>
+  <channel id="revry-news">
+    <display-name>Revry News</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/3f6c9f74-ee6f-43b9-959e-f63992e2e83d.png"/>
+  </channel>
+  <channel id="bloomberg-originals-new">
+    <display-name>Bloomberg Originals</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d6c3cf95-3570-44fa-a3db-ca215ded6396.jpeg"/>
+  </channel>
+  <channel id="bloomberg-tv-plus">
+    <display-name>Bloomberg TV+</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80bb6ac5-9dbf-44fb-8716-dd84aec360f8.jpeg"/>
+  </channel>
+  <channel id="cgtn-es">
+    <display-name>CGTN</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg"/>
+  </channel>
+  <channel id="africanews-eng">
+    <display-name>Africanews</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d1a76e1-5c26-4cf1-aed8-7101a5206922.jpeg"/>
+  </channel>
+  <channel id="cgtn">
+    <display-name>CGTN</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg"/>
+  </channel>
+  <channel id="newsworld-spa">
+    <display-name>NewsWorld</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4939210a-0bec-4dd9-9ea4-40ed09db1dbc.jpeg"/>
+  </channel>
+  <channel id="el-pais">
+    <display-name>El País</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg"/>
+  </channel>
+  <channel id="france-24-en">
+    <display-name>France 24 FAST English</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg"/>
+  </channel>
+</tv>
