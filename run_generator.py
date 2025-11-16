@@ -11,10 +11,12 @@ from datetime import datetime, timezone, timedelta # Importaciones de tiempo
 SOURCE_URL_W3U = "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/tv/w3u/RakutenTV_tv.w3u"
 SOURCE_URL_EPG = "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 
-# --- URL EPG (la que tú has proporcionado) ---
+# --- URL Finales Absolutas (las que tú has proporcionado) ---
+M3U_FINAL_URL = "https://github.com/joaquinito2070/RakutenTV_M3U/raw/refs/heads/main/dist/rakuten_all.m3u"
+JSON_FINAL_URL = "https://github.com/joaquinito2070/RakutenTV_M3U/raw/refs/heads/main/dist/rakuten_all.json"
 EPG_FINAL_URL = "https://github.com/joaquinito2070/RakutenTV_M3U/raw/refs/heads/main/dist/rakuten_all.xml"
 
-# --- Archivos de Salida ---
+# --- Archivos de Salida (Locales) ---
 OUTPUT_DIR = "dist"
 M3U_FILE = os.path.join(OUTPUT_DIR, "rakuten_all.m3u")
 XML_FILE = os.path.join(OUTPUT_DIR, "rakuten_all.xml")
@@ -59,7 +61,6 @@ def parse_xmltv_time(time_str):
         return None
 
 
-# --- NUEVA FUNCIÓN DE FILTRADO DE EPG ---
 def get_filtered_programs(epg_root, hours_limit):
     """
     Devuelve una lista de elementos <programme> que están dentro 
@@ -70,7 +71,6 @@ def get_filtered_programs(epg_root, hours_limit):
     programs_filtered = 0
     
     now_utc = datetime.now(timezone.utc)
-    # Usamos 'hours=hours_limit' en lugar de 'days=1'
     limit_time_utc = now_utc + timedelta(hours=hours_limit)
     
     if epg_root is None:
@@ -91,9 +91,6 @@ def get_filtered_programs(epg_root, hours_limit):
             programs_filtered += 1
             continue
 
-        # Lógica de filtrado:
-        # 1. El programa NO debe haber terminado (stop_time > now)
-        # 2. El programa DEBE empezar antes del límite (start_time < limit_time)
         if stop_time > now_utc and start_time < limit_time_utc:
             programs_list.append(program)
             programs_kept += 1
@@ -126,7 +123,6 @@ def generate_m3u(data):
                 f.write(f'{stream_url}\n')
 
 
-# --- FUNCIÓN MODIFICADA ---
 def generate_xmltv(channel_data, filtered_programs_24h):
     """
     Genera un archivo XMLTV (24h) combinando canales
@@ -173,7 +169,6 @@ def generate_xmltv(channel_data, filtered_programs_24h):
         print(f"ERROR: No se pudo guardar el archivo XML. {e}")
 
 
-# --- FUNCIÓN MODIFICADA Y RENOMBRADA ---
 def generate_stations_json(channel_data, filtered_programs_12h):
     """
     Genera un archivo JSON con la lista de estaciones,
@@ -188,7 +183,6 @@ def generate_stations_json(channel_data, filtered_programs_12h):
         if not channel_id:
             continue
         
-        # Convertir el programa XML a un diccionario JSON simple
         program_dict = {
             "start": program.get("start"),
             "stop": program.get("stop"),
@@ -202,21 +196,19 @@ def generate_stations_json(channel_data, filtered_programs_12h):
 
     # 2. Construir la lista de estaciones
     station_list = []
-    channel_ids_seen = set() # Para evitar duplicados
+    channel_ids_seen = set()
     
     for group in channel_data.get("groups", []):
         group_title = group.get("name", "Sin Grupo")
         for station in group.get("stations", []):
             tvg_id = station.get("epgId")
             
-            # Evitar estaciones duplicadas si aparecen en varios grupos
             if not tvg_id or tvg_id in channel_ids_seen:
                 continue
             channel_ids_seen.add(tvg_id)
             
             flat_station = station.copy()
             flat_station["group_title"] = group_title
-            # --- Integración del EPG de 12 horas ---
             flat_station["epg"] = program_map.get(tvg_id, [])
             station_list.append(flat_station)
     
@@ -231,17 +223,18 @@ def generate_stations_json(channel_data, filtered_programs_12h):
         json.dump(final_json_data, f, indent=2, ensure_ascii=False)
 
 
+# --- FUNCIÓN MODIFICADA ---
 def generate_index_json():
-    """Genera un archivo index.json con enlaces a los archivos generados."""
+    """Genera un archivo index.json con enlaces absolutos a los archivos generados."""
     print(f"Generando {JSON_INDEX_FILE}...")
     
     index_data = {
         "author": "RakutenTV M3U Generator",
         "last_updated": datetime.now().isoformat(),
         "files": {
-            "m3u_url": os.path.basename(M3U_FILE),
+            "m3u_url": M3U_FINAL_URL,             # <-- CAMBIO
             "epg_xml_url": EPG_FINAL_URL,
-            "stations_json_url": os.path.basename(JSON_STATIONS_FILE)
+            "stations_json_url": JSON_FINAL_URL   # <-- CAMBIO
         }
     }
     
@@ -249,7 +242,6 @@ def generate_index_json():
         json.dump(index_data, f, indent=2, ensure_ascii=False)
 
 
-# --- FUNCIÓN MAIN MODIFICADA ---
 def main():
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -262,7 +254,6 @@ def main():
         print("ERROR FATAL: No se pudieron obtener los datos de los canales. Saliendo.")
         return
 
-    # 2. Parsear el EPG a un objeto XML
     epg_root = None
     if epg_xml_content:
         try:
@@ -272,16 +263,15 @@ def main():
     else:
         print("ADVERTENCIA: No se pudo obtener el EPG.")
 
-    # Si el parseo falla o no hay EPG, crear un 'root' vacío
     if epg_root is None:
         epg_root = ET.Element("tv") 
 
-    # 3. Filtrar programas para AMBAS duraciones
+    # 2. Filtrar programas para AMBAS duraciones
     print("Filtrando EPG...")
     programs_for_xml_24h = get_filtered_programs(epg_root, 24)
     programs_for_json_12h = get_filtered_programs(epg_root, 12)
     
-    # 4. Generar todos los archivos pasando los datos filtrados
+    # 3. Generar todos los archivos
     generate_m3u(channel_data)
     generate_xmltv(channel_data, programs_for_xml_24h)
     generate_stations_json(channel_data, programs_for_json_12h)
