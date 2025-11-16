@@ -1102,6 +1102,12 @@
           "stop": "20251117004153 +0100",
           "title": "Águila Roja",
           "desc": "| +16 | Series |\n\nGonzalo sigue sin saber el paradero de Satur. Desconoce que Satur ha sido crucificado junto con el sucesor de Cristo y Monseñor Adrián. Por otro lado, el plan de la Marquesa de proporcionar al Comisario un nuevo trabajo sigue su curso."
+        },
+        {
+          "start": "20251117004154 +0100",
+          "stop": "20251117022021 +0100",
+          "title": "Águila Roja",
+          "desc": "| +16 | Series |\n\nEl falso Águila Roja realiza sus primeras masacres dejando una pluma roja. El pueblo cree que el culpable es Águila Roja, quien, desesperado, intentará averiguar la identidad del peor enemigo al que se ha enfrentado jamás. Mientras, un viejo amigo de Satur, Santiago, se instalará en casa de Gonzalo."
         }
       ]
     },
@@ -1207,12 +1213,6 @@
       "epgId": "stormcast-novelas-spa",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116114737 +0100",
-          "stop": "20251116123929 +0100",
-          "title": "La Ronca de Oro",
-          "desc": "| +13 | Series |\n\nÁlvaro se siente mal físicamente pero no presta atención a los síntomas. Mientras tanto, Helena continúa grabando las canciones que Graciela compuso para su disco."
-        },
         {
           "start": "20251116123935 +0100",
           "stop": "20251116133138 +0100",
@@ -1568,6 +1568,12 @@
           "stop": "20251117003931 +0100",
           "title": "Tornado cósmico de Pegasus",
           "desc": "| +TP | Anime |\n\nEn la segunda ronda del torneo por equipos, Gingka y Yuki se enfrentan a Dashan y a Chiyun en un stadium en lo alto de una montaña. Gingka y Yuki ganan gracias a una nueva jugada estrella de Gingka llamada tornado cósmico. A continuación combaten el Puño de Beylin contra Kyoya y Benkei. El combate acaba enseguida con la victoria del Puño de Beylin, pues Kyoya y los demás se habían concentrado en Bao cuando en realidad el blader legendario era su compañero, Aguma."
+        },
+        {
+          "start": "20251117003932 +0100",
+          "stop": "20251117010436 +0100",
+          "title": "El dios de Saturno, Kronos",
+          "desc": "| +TP | Anime |\n\nGinka y Yuki se trasladan hasta un antiguo templo bey para combatir contra Bao y Aguma, del Puño de Beylin, en la final del torneo por equipos Toryumon. El equipo del puño de Beylin empieza con fuerza y pronto ponen en un aprieto a Gingka y a Yuki. Éste piensa con rapidez y desliza a su bey hasta el tornado que ha creado Aguma, consiguiendo volver las tornas."
         }
       ]
     },
@@ -1920,6 +1926,12 @@
           "stop": "20251117004206 +0100",
           "title": "Episodio 1",
           "desc": "| +16 | Entretenimiento |\n\nJames May tratará de conducir el Toyota Hilux en un volcán activo en Islandia."
+        },
+        {
+          "start": "20251117004207 +0100",
+          "stop": "20251117013229 +0100",
+          "title": "Episodio 2",
+          "desc": "| +16 | Entretenimiento |\n\nEl equipo de Top Gear viaja a Alemania para poner a prueba un trío de coches de 5000 libras."
         }
       ]
     },
@@ -1931,12 +1943,6 @@
       "epgId": "yu-gi-oh-new-spa",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116121740 +0100",
-          "stop": "20251116124256 +0100",
-          "title": "Control mímico: Parte 2",
-          "desc": "| +7 | Anime |\n\nCuerdas convoca a una de las criaturas más poderosas de la historia de Duelo de Monstruos... ¡el dios egipcio Slifer el Dragón del Cielo! ¿Qué posibilidades tiene la banda de monstruos mortales de Yugi contra un dios egipcio?"
-        },
         {
           "start": "20251116124257 +0100",
           "stop": "20251116130755 +0100",
@@ -2121,12 +2127,6 @@
       "epgId": "mr-bean-es",
       "group_title": "Series",
       "epg": [
-        {
-          "start": "20251116122552 +0100",
-          "stop": "20251116123904 +0100",
-          "title": "Rosa",
-          "desc": "| +TP | Infantil |\n\nEl Sr. Bean, acosado por un extraño animal rosado, se entusiasma con la criatura cuando muestra sus verdaderos colores."
-        },
         {
           "start": "20251116123905 +0100",
           "stop": "20251116125221 +0100",
@@ -2456,6 +2456,12 @@
           "stop": "20251117004025 +0100",
           "title": "Bean cariñoso",
           "desc": "| +TP | Infantil |\n\nCuando la Sra. Wicket queda minusválida por el automóvil de juguete del Sr. Bean, él la cuida."
+        },
+        {
+          "start": "20251117004026 +0100",
+          "stop": "20251117005324 +0100",
+          "title": "Bean en la ópera",
+          "desc": "| +TP | Infantil |\n\nEl auto del Sr. Bean se ha descompuesto y llega tarde a encontrarse con Irma en la ópera."
         }
       ]
     },
@@ -2764,12 +2770,6 @@
       "group_title": "Series",
       "epg": [
         {
-          "start": "20251116111142 +0100",
-          "stop": "20251116124130 +0100",
-          "title": "Vaya Semanita",
-          "desc": "| +16 | Series |\n\nEl programa de humor más irreverente y transgresor."
-        },
-        {
           "start": "20251116124131 +0100",
           "stop": "20251116141228 +0100",
           "title": "Vaya Semanita",
@@ -2898,6 +2898,12 @@
           "stop": "20251117003825 +0100",
           "title": "Merlí",
           "desc": "| +16 | Series |\n\nJoan ya no quiere ser un \"buen chico\" y decide probar cosas nuevas."
+        },
+        {
+          "start": "20251117003826 +0100",
+          "stop": "20251117014530 +0100",
+          "title": "Merlí",
+          "desc": "| +16 | Series |\n\nPol descubre que su hermano guarda un secreto. Los alumnos se cuelan en el insti de noche y montan una fiesta de Navidad salvaje."
         }
       ]
     },
@@ -8220,12 +8226,6 @@
       "group_title": "Infantil",
       "epg": [
         {
-          "start": "20251116121114 +0100",
-          "stop": "20251116124044 +0100",
-          "title": "Rantaro, el Ninja Boy",
-          "desc": "| +12 | Anime |\n\nRantaró, el Ninja Boy. Episodio: El viaje."
-        },
-        {
           "start": "20251116124045 +0100",
           "stop": "20251116131015 +0100",
           "title": "Rantaro, el Ninja Boy",
@@ -9064,12 +9064,6 @@
       "group_title": "Reality",
       "epg": [
         {
-          "start": "20251116121559 +0100",
-          "stop": "20251116124209 +0100",
-          "title": "La Fiebre del Jade",
-          "desc": "| +16 | Entretenimiento |\n\nJosh está varado en el largo camino hacia la mina Wolverine cuando los pernos se desprenden de su excavadora y no puede pedir ayuda."
-        },
-        {
           "start": "20251116124210 +0100",
           "stop": "20251116131013 +0100",
           "title": "La Fiebre del Jade",
@@ -9731,12 +9725,6 @@
       "epgId": "todo-crimen",
       "group_title": "Crimen y Misterio",
       "epg": [
-        {
-          "start": "20251116115010 +0100",
-          "stop": "20251116124238 +0100",
-          "title": "Wives With Knives (español)",
-          "desc": "| +16 | Crime |\n\nYekaterina Petrov, una hermosa inmigrante letona, pierde a su madre y se sumerge en la deslumbrante escena de clubes nocturnos de Miami."
-        },
         {
           "start": "20251116124239 +0100",
           "stop": "20251116133920 +0100",
